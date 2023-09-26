@@ -21,9 +21,7 @@ To learn more about configuration, consult the [relevant section](#configuration
 
 * <details open>
   
-  <summary><code>extension</code> (string)</summary>
-  
-  <h6>
+  <summary><h6><code>extension</h6></code> (string)</summary>
   
   <div>
   
@@ -33,8 +31,6 @@ To learn more about configuration, consult the [relevant section](#configuration
   
   </div>
   
-  </h6>
-  
   ```lua
   "md"
   ```
@@ -43,9 +39,7 @@ To learn more about configuration, consult the [relevant section](#configuration
 
 * <details open>
   
-  <summary><code>extensions</code> (empty list)</summary>
-  
-  <h6>
+  <summary><h6><code>extensions</h6></code> (empty list)</summary>
   
   <div>
   
@@ -57,8 +51,6 @@ To learn more about configuration, consult the [relevant section](#configuration
   
   </div>
   
-  </h6>
-  
   
   
   
@@ -66,9 +58,7 @@ To learn more about configuration, consult the [relevant section](#configuration
 
 * <details open>
   
-  <summary><code>mathematics</code> (table)</summary>
-  
-  <h6>
+  <summary><h6><code>mathematics</h6></code> (table)</summary>
   
   <div>
   
@@ -78,14 +68,10 @@ To learn more about configuration, consult the [relevant section](#configuration
   
   </div>
   
-  </h6>
-  
   
   * <details>
     
-    <summary><code>block</code> (table)</summary>
-    
-    <h6>
+    <summary><h6><code>block</h6></code> (table)</summary>
     
     <div>
     
@@ -99,12 +85,10 @@ To learn more about configuration, consult the [relevant section](#configuration
     
     </div>
     
-    </h6>
-    
     
     * <details>
       
-      <summary><code>end</code> (string)</summary>
+      <summary><h6><code>end</h6></code> (string)</summary>
       
       <br>
       
@@ -115,7 +99,7 @@ To learn more about configuration, consult the [relevant section](#configuration
       </details>
     * <details>
       
-      <summary><code>start</code> (string)</summary>
+      <summary><h6><code>start</h6></code> (string)</summary>
       
       <br>
       
@@ -129,9 +113,7 @@ To learn more about configuration, consult the [relevant section](#configuration
     </details>
   * <details>
     
-    <summary><code>inline</code> (table)</summary>
-    
-    <h6>
+    <summary><h6><code>inline</h6></code> (table)</summary>
     
     <div>
     
@@ -139,12 +121,10 @@ To learn more about configuration, consult the [relevant section](#configuration
     
     </div>
     
-    </h6>
-    
     
     * <details>
       
-      <summary><code>end</code> (string)</summary>
+      <summary><h6><code>end</h6></code> (string)</summary>
       
       <br>
       
@@ -155,7 +135,7 @@ To learn more about configuration, consult the [relevant section](#configuration
       </details>
     * <details>
       
-      <summary><code>start</code> (string)</summary>
+      <summary><h6><code>start</h6></code> (string)</summary>
       
       <br>
       
@@ -173,9 +153,7 @@ To learn more about configuration, consult the [relevant section](#configuration
 
 * <details open>
   
-  <summary><code>metadata</code> (table)</summary>
-  
-  <h6>
+  <summary><h6><code>metadata</h6></code> (table)</summary>
   
   <div>
   
@@ -185,12 +163,10 @@ To learn more about configuration, consult the [relevant section](#configuration
   
   </div>
   
-  </h6>
-  
   
   * <details>
     
-    <summary><code>end</code> (string)</summary>
+    <summary><h6><code>end</h6></code> (string)</summary>
     
     <br>
     
@@ -201,7 +177,7 @@ To learn more about configuration, consult the [relevant section](#configuration
     </details>
   * <details>
     
-    <summary><code>start</code> (string)</summary>
+    <summary><h6><code>start</h6></code> (string)</summary>
     
     <br>
     

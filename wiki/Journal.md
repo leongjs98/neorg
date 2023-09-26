@@ -30,17 +30,13 @@ their titles.
 
 * <details open>
   
-  <summary><code>journal_folder</code> (string)</summary>
-  
-  <h6>
+  <summary><h6><code>journal_folder</h6></code> (string)</summary>
   
   <div>
   
   The name for the folder in which the journal files are put.
   
   </div>
-  
-  </h6>
   
   ```lua
   "journal"
@@ -50,9 +46,7 @@ their titles.
 
 * <details open>
   
-  <summary><code>strategy</code> (string)</summary>
-  
-  <h6>
+  <summary><h6><code>strategy</h6></code> (string)</summary>
   
   <div>
   
@@ -63,8 +57,6 @@ their titles.
   
   </div>
   
-  </h6>
-  
   ```lua
   "nested"
   ```
@@ -73,17 +65,13 @@ their titles.
 
 * <details open>
   
-  <summary><code>template_name</code> (string)</summary>
-  
-  <h6>
+  <summary><h6><code>template_name</h6></code> (string)</summary>
   
   <div>
   
   The name of the template file to use when running `:Neorg journal template`.
   
   </div>
-  
-  </h6>
   
   ```lua
   "template.norg"
@@ -93,9 +81,7 @@ their titles.
 
 * <details open>
   
-  <summary><code>toc_format</code> (nil)</summary>
-  
-  <h6>
+  <summary><h6><code>toc_format</h6></code> (nil)</summary>
   
   <div>
   
@@ -106,8 +92,6 @@ their titles.
   
   </div>
   
-  </h6>
-  
   ```lua
   nil
   ```
@@ -116,17 +100,13 @@ their titles.
 
 * <details open>
   
-  <summary><code>use_template</code> (boolean)</summary>
-  
-  <h6>
+  <summary><h6><code>use_template</h6></code> (boolean)</summary>
   
   <div>
   
   Whether to apply the template file to new journal entries.
   
   </div>
-  
-  </h6>
   
   ```lua
   true
@@ -136,9 +116,7 @@ their titles.
 
 * <details open>
   
-  <summary><code>workspace</code> (nil)</summary>
-  
-  <h6>
+  <summary><h6><code>workspace</h6></code> (nil)</summary>
   
   <div>
   
@@ -149,8 +127,6 @@ their titles.
   behaviour may vary from workflow to workflow.
   
   </div>
-  
-  </h6>
   
   ```lua
   nil

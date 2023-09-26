@@ -22,9 +22,7 @@ prompted with a set of actions that you can perform on the broken link.
 
 * <details open>
   
-  <summary><code>external_filetypes</code> (empty list)</summary>
-  
-  <h6>
+  <summary><h6><code>external_filetypes</h6></code> (empty list)</summary>
   
   <div>
   
@@ -33,8 +31,6 @@ prompted with a set of actions that you can perform on the broken link.
   
   </div>
   
-  </h6>
-  
   
   
   
@@ -42,9 +38,7 @@ prompted with a set of actions that you can perform on the broken link.
 
 * <details open>
   
-  <summary><code>fuzzing_threshold</code> (number)</summary>
-  
-  <h6>
+  <summary><h6><code>fuzzing_threshold</h6></code> (number)</summary>
   
   <div>
   
@@ -55,8 +49,6 @@ prompted with a set of actions that you can perform on the broken link.
   
   </div>
   
-  </h6>
-  
   ```lua
   0.5
   ```
@@ -65,9 +57,7 @@ prompted with a set of actions that you can perform on the broken link.
 
 * <details open>
   
-  <summary><code>lookahead</code> (boolean)</summary>
-  
-  <h6>
+  <summary><h6><code>lookahead</h6></code> (boolean)</summary>
   
   <div>
   
@@ -75,8 +65,6 @@ prompted with a set of actions that you can perform on the broken link.
   even if your cursor is not over the link itself.
   
   </div>
-  
-  </h6>
   
   ```lua
   true

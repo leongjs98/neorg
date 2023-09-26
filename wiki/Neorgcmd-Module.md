@@ -25,9 +25,7 @@ which walks you through the necessary steps.
 
 * <details open>
   
-  <summary><code>default</code> (list)</summary>
-  
-  <h6>
+  <summary><h6><code>default</h6></code> (list)</summary>
   
   <div>
   
@@ -36,8 +34,6 @@ which walks you through the necessary steps.
   This feature will soon be deprecated, so it is not recommended to touch it.
   
   </div>
-  
-  </h6>
   
   
   * <details>
@@ -79,9 +75,7 @@ which walks you through the necessary steps.
 
 * <details open>
   
-  <summary><code>load</code> (list)</summary>
-  
-  <h6>
+  <summary><h6><code>load</h6></code> (list)</summary>
   
   <div>
   
@@ -89,8 +83,6 @@ which walks you through the necessary steps.
   This feature will soon be deprecated, so it is not recommended to touch it.
   
   </div>
-  
-  </h6>
   
   
   * <details>

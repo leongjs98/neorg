@@ -15,17 +15,13 @@
 
 * <details open>
   
-  <summary><code>path</code> (string)</summary>
-  
-  <h6>
+  <summary><h6><code>path</h6></code> (string)</summary>
   
   <div>
   
   Full path to store data (saved in mpack data format)
   
   </div>
-  
-  </h6>
   
   ```lua
   vim.fn.stdpath("data") .. "/neorg.mpack"

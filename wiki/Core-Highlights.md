@@ -19,9 +19,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
 
 * <details open>
   
-  <summary><code>dim</code> (table)</summary>
-  
-  <h6>
+  <summary><h6><code>dim</h6></code> (table)</summary>
   
   <div>
   
@@ -42,26 +40,24 @@ Neorg under a single tree of highlights: `@neorg.*`.
   
   </div>
   
-  </h6>
-  
   
   * <details>
     
-    <summary><code>markup</code> (table)</summary>
+    <summary><h6><code>markup</h6></code> (table)</summary>
     
     <br>
     
     
     * <details>
       
-      <summary><code>inline_comment</code> (table)</summary>
+      <summary><h6><code>inline_comment</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>percentage</code> (number)</summary>
+        <summary><h6><code>percentage</h6></code> (number)</summary>
         
         <br>
         
@@ -72,7 +68,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
         </details>
       * <details>
         
-        <summary><code>reference</code> (string)</summary>
+        <summary><h6><code>reference</h6></code> (string)</summary>
         
         <br>
         
@@ -86,14 +82,14 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>verbatim</code> (table)</summary>
+      <summary><h6><code>verbatim</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>percentage</code> (number)</summary>
+        <summary><h6><code>percentage</h6></code> (number)</summary>
         
         <br>
         
@@ -104,7 +100,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
         </details>
       * <details>
         
-        <summary><code>reference</code> (string)</summary>
+        <summary><h6><code>reference</h6></code> (string)</summary>
         
         <br>
         
@@ -121,28 +117,28 @@ Neorg under a single tree of highlights: `@neorg.*`.
     </details>
   * <details>
     
-    <summary><code>tags</code> (table)</summary>
+    <summary><h6><code>tags</h6></code> (table)</summary>
     
     <br>
     
     
     * <details>
       
-      <summary><code>ranged_verbatim</code> (table)</summary>
+      <summary><h6><code>ranged_verbatim</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>code_block</code> (table)</summary>
+        <summary><h6><code>code_block</h6></code> (table)</summary>
         
         <br>
         
         
         * <details>
           
-          <summary><code>affect</code> (string)</summary>
+          <summary><h6><code>affect</h6></code> (string)</summary>
           
           <br>
           
@@ -153,7 +149,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
           </details>
         * <details>
           
-          <summary><code>percentage</code> (number)</summary>
+          <summary><h6><code>percentage</h6></code> (number)</summary>
           
           <br>
           
@@ -164,7 +160,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
           </details>
         * <details>
           
-          <summary><code>reference</code> (string)</summary>
+          <summary><h6><code>reference</h6></code> (string)</summary>
           
           <br>
           
@@ -188,9 +184,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
 
 * <details open>
   
-  <summary><code>highlights</code> (table)</summary>
-  
-  <h6>
+  <summary><h6><code>highlights</h6></code> (table)</summary>
   
   <div>
   
@@ -221,14 +215,10 @@ Neorg under a single tree of highlights: `@neorg.*`.
   
   </div>
   
-  </h6>
-  
   
   * <details>
     
-    <summary><code>anchors</code> (table)</summary>
-    
-    <h6>
+    <summary><h6><code>anchors</h6></code> (table)</summary>
     
     <div>
     
@@ -236,19 +226,17 @@ Neorg under a single tree of highlights: `@neorg.*`.
     
     </div>
     
-    </h6>
-    
     
     * <details>
       
-      <summary><code>declaration</code> (table)</summary>
+      <summary><h6><code>declaration</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>delimiter</code> (string)</summary>
+        <summary><h6><code>delimiter</h6></code> (string)</summary>
         
         <br>
         
@@ -262,14 +250,14 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>definition</code> (table)</summary>
+      <summary><h6><code>definition</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>delimiter</code> (string)</summary>
+        <summary><h6><code>delimiter</h6></code> (string)</summary>
         
         <br>
         
@@ -286,9 +274,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
     </details>
   * <details>
     
-    <summary><code>definitions</code> (table)</summary>
-    
-    <h6>
+    <summary><h6><code>definitions</h6></code> (table)</summary>
     
     <div>
     
@@ -296,12 +282,10 @@ Neorg under a single tree of highlights: `@neorg.*`.
     
     </div>
     
-    </h6>
-    
     
     * <details>
       
-      <summary><code>content</code> (string)</summary>
+      <summary><h6><code>content</h6></code> (string)</summary>
       
       <br>
       
@@ -312,7 +296,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>prefix</code> (string)</summary>
+      <summary><h6><code>prefix</h6></code> (string)</summary>
       
       <br>
       
@@ -323,7 +307,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>suffix</code> (string)</summary>
+      <summary><h6><code>suffix</h6></code> (string)</summary>
       
       <br>
       
@@ -334,7 +318,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>title</code> (string)</summary>
+      <summary><h6><code>title</h6></code> (string)</summary>
       
       <br>
       
@@ -348,9 +332,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
     </details>
   * <details>
     
-    <summary><code>delimiters</code> (table)</summary>
-    
-    <h6>
+    <summary><h6><code>delimiters</h6></code> (table)</summary>
     
     <div>
     
@@ -361,12 +343,10 @@ Neorg under a single tree of highlights: `@neorg.*`.
     
     </div>
     
-    </h6>
-    
     
     * <details>
       
-      <summary><code>horizontal_line</code> (string)</summary>
+      <summary><h6><code>horizontal_line</h6></code> (string)</summary>
       
       <br>
       
@@ -377,7 +357,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>strong</code> (string)</summary>
+      <summary><h6><code>strong</h6></code> (string)</summary>
       
       <br>
       
@@ -388,7 +368,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>weak</code> (string)</summary>
+      <summary><h6><code>weak</h6></code> (string)</summary>
       
       <br>
       
@@ -402,17 +382,13 @@ Neorg under a single tree of highlights: `@neorg.*`.
     </details>
   * <details>
     
-    <summary><code>error</code> (string)</summary>
-    
-    <h6>
+    <summary><h6><code>error</h6></code> (string)</summary>
     
     <div>
     
     In case of errors in the syntax tree, use the following highlight.
     
     </div>
-    
-    </h6>
     
     ```lua
     "+@error"
@@ -421,9 +397,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
     </details>
   * <details>
     
-    <summary><code>footnotes</code> (table)</summary>
-    
-    <h6>
+    <summary><h6><code>footnotes</h6></code> (table)</summary>
     
     <div>
     
@@ -431,12 +405,10 @@ Neorg under a single tree of highlights: `@neorg.*`.
     
     </div>
     
-    </h6>
-    
     
     * <details>
       
-      <summary><code>content</code> (string)</summary>
+      <summary><h6><code>content</h6></code> (string)</summary>
       
       <br>
       
@@ -447,7 +419,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>prefix</code> (string)</summary>
+      <summary><h6><code>prefix</h6></code> (string)</summary>
       
       <br>
       
@@ -458,7 +430,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>suffix</code> (string)</summary>
+      <summary><h6><code>suffix</h6></code> (string)</summary>
       
       <br>
       
@@ -469,7 +441,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>title</code> (string)</summary>
+      <summary><h6><code>title</h6></code> (string)</summary>
       
       <br>
       
@@ -483,9 +455,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
     </details>
   * <details>
     
-    <summary><code>headings</code> (table)</summary>
-    
-    <h6>
+    <summary><h6><code>headings</h6></code> (table)</summary>
     
     <div>
     
@@ -493,19 +463,17 @@ Neorg under a single tree of highlights: `@neorg.*`.
     
     </div>
     
-    </h6>
-    
     
     * <details>
       
-      <summary><code>1</code> (table)</summary>
+      <summary><h6><code>1</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>prefix</code> (string)</summary>
+        <summary><h6><code>prefix</h6></code> (string)</summary>
         
         <br>
         
@@ -516,7 +484,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
         </details>
       * <details>
         
-        <summary><code>title</code> (string)</summary>
+        <summary><h6><code>title</h6></code> (string)</summary>
         
         <br>
         
@@ -530,14 +498,14 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>2</code> (table)</summary>
+      <summary><h6><code>2</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>prefix</code> (string)</summary>
+        <summary><h6><code>prefix</h6></code> (string)</summary>
         
         <br>
         
@@ -548,7 +516,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
         </details>
       * <details>
         
-        <summary><code>title</code> (string)</summary>
+        <summary><h6><code>title</h6></code> (string)</summary>
         
         <br>
         
@@ -562,14 +530,14 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>3</code> (table)</summary>
+      <summary><h6><code>3</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>prefix</code> (string)</summary>
+        <summary><h6><code>prefix</h6></code> (string)</summary>
         
         <br>
         
@@ -580,7 +548,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
         </details>
       * <details>
         
-        <summary><code>title</code> (string)</summary>
+        <summary><h6><code>title</h6></code> (string)</summary>
         
         <br>
         
@@ -594,14 +562,14 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>4</code> (table)</summary>
+      <summary><h6><code>4</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>prefix</code> (string)</summary>
+        <summary><h6><code>prefix</h6></code> (string)</summary>
         
         <br>
         
@@ -612,7 +580,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
         </details>
       * <details>
         
-        <summary><code>title</code> (string)</summary>
+        <summary><h6><code>title</h6></code> (string)</summary>
         
         <br>
         
@@ -626,14 +594,14 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>5</code> (table)</summary>
+      <summary><h6><code>5</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>prefix</code> (string)</summary>
+        <summary><h6><code>prefix</h6></code> (string)</summary>
         
         <br>
         
@@ -644,7 +612,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
         </details>
       * <details>
         
-        <summary><code>title</code> (string)</summary>
+        <summary><h6><code>title</h6></code> (string)</summary>
         
         <br>
         
@@ -658,14 +626,14 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>6</code> (table)</summary>
+      <summary><h6><code>6</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>prefix</code> (string)</summary>
+        <summary><h6><code>prefix</h6></code> (string)</summary>
         
         <br>
         
@@ -676,7 +644,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
         </details>
       * <details>
         
-        <summary><code>title</code> (string)</summary>
+        <summary><h6><code>title</h6></code> (string)</summary>
         
         <br>
         
@@ -693,21 +661,21 @@ Neorg under a single tree of highlights: `@neorg.*`.
     </details>
   * <details>
     
-    <summary><code>links</code> (table)</summary>
+    <summary><h6><code>links</h6></code> (table)</summary>
     
     <br>
     
     
     * <details>
       
-      <summary><code>description</code> (table)</summary>
+      <summary><h6><code>description</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>delimiter</code> (string)</summary>
+        <summary><h6><code>delimiter</h6></code> (string)</summary>
         
         <br>
         
@@ -721,14 +689,14 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>file</code> (table)</summary>
+      <summary><h6><code>file</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>delimiter</code> (string)</summary>
+        <summary><h6><code>delimiter</h6></code> (string)</summary>
         
         <br>
         
@@ -742,21 +710,21 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>location</code> (table)</summary>
+      <summary><h6><code>location</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>definition</code> (table)</summary>
+        <summary><h6><code>definition</h6></code> (table)</summary>
         
         <br>
         
         
         * <details>
           
-          <summary><code>prefix</code> (string)</summary>
+          <summary><h6><code>prefix</h6></code> (string)</summary>
           
           <br>
           
@@ -770,7 +738,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
         </details>
       * <details>
         
-        <summary><code>delimiter</code> (string)</summary>
+        <summary><h6><code>delimiter</h6></code> (string)</summary>
         
         <br>
         
@@ -781,14 +749,14 @@ Neorg under a single tree of highlights: `@neorg.*`.
         </details>
       * <details>
         
-        <summary><code>external_file</code> (table)</summary>
+        <summary><h6><code>external_file</h6></code> (table)</summary>
         
         <br>
         
         
         * <details>
           
-          <summary><code>prefix</code> (string)</summary>
+          <summary><h6><code>prefix</h6></code> (string)</summary>
           
           <br>
           
@@ -802,14 +770,14 @@ Neorg under a single tree of highlights: `@neorg.*`.
         </details>
       * <details>
         
-        <summary><code>footnote</code> (table)</summary>
+        <summary><h6><code>footnote</h6></code> (table)</summary>
         
         <br>
         
         
         * <details>
           
-          <summary><code>prefix</code> (string)</summary>
+          <summary><h6><code>prefix</h6></code> (string)</summary>
           
           <br>
           
@@ -823,14 +791,14 @@ Neorg under a single tree of highlights: `@neorg.*`.
         </details>
       * <details>
         
-        <summary><code>generic</code> (table)</summary>
+        <summary><h6><code>generic</h6></code> (table)</summary>
         
         <br>
         
         
         * <details>
           
-          <summary><code>prefix</code> (string)</summary>
+          <summary><h6><code>prefix</h6></code> (string)</summary>
           
           <br>
           
@@ -844,21 +812,21 @@ Neorg under a single tree of highlights: `@neorg.*`.
         </details>
       * <details>
         
-        <summary><code>heading</code> (table)</summary>
+        <summary><h6><code>heading</h6></code> (table)</summary>
         
         <br>
         
         
         * <details>
           
-          <summary><code>1</code> (table)</summary>
+          <summary><h6><code>1</h6></code> (table)</summary>
           
           <br>
           
           
           * <details>
             
-            <summary><code>prefix</code> (string)</summary>
+            <summary><h6><code>prefix</h6></code> (string)</summary>
             
             <br>
             
@@ -872,14 +840,14 @@ Neorg under a single tree of highlights: `@neorg.*`.
           </details>
         * <details>
           
-          <summary><code>2</code> (table)</summary>
+          <summary><h6><code>2</h6></code> (table)</summary>
           
           <br>
           
           
           * <details>
             
-            <summary><code>prefix</code> (string)</summary>
+            <summary><h6><code>prefix</h6></code> (string)</summary>
             
             <br>
             
@@ -893,14 +861,14 @@ Neorg under a single tree of highlights: `@neorg.*`.
           </details>
         * <details>
           
-          <summary><code>3</code> (table)</summary>
+          <summary><h6><code>3</h6></code> (table)</summary>
           
           <br>
           
           
           * <details>
             
-            <summary><code>prefix</code> (string)</summary>
+            <summary><h6><code>prefix</h6></code> (string)</summary>
             
             <br>
             
@@ -914,14 +882,14 @@ Neorg under a single tree of highlights: `@neorg.*`.
           </details>
         * <details>
           
-          <summary><code>4</code> (table)</summary>
+          <summary><h6><code>4</h6></code> (table)</summary>
           
           <br>
           
           
           * <details>
             
-            <summary><code>prefix</code> (string)</summary>
+            <summary><h6><code>prefix</h6></code> (string)</summary>
             
             <br>
             
@@ -935,14 +903,14 @@ Neorg under a single tree of highlights: `@neorg.*`.
           </details>
         * <details>
           
-          <summary><code>5</code> (table)</summary>
+          <summary><h6><code>5</h6></code> (table)</summary>
           
           <br>
           
           
           * <details>
             
-            <summary><code>prefix</code> (string)</summary>
+            <summary><h6><code>prefix</h6></code> (string)</summary>
             
             <br>
             
@@ -956,14 +924,14 @@ Neorg under a single tree of highlights: `@neorg.*`.
           </details>
         * <details>
           
-          <summary><code>6</code> (table)</summary>
+          <summary><h6><code>6</h6></code> (table)</summary>
           
           <br>
           
           
           * <details>
             
-            <summary><code>prefix</code> (string)</summary>
+            <summary><h6><code>prefix</h6></code> (string)</summary>
             
             <br>
             
@@ -980,14 +948,14 @@ Neorg under a single tree of highlights: `@neorg.*`.
         </details>
       * <details>
         
-        <summary><code>marker</code> (table)</summary>
+        <summary><h6><code>marker</h6></code> (table)</summary>
         
         <br>
         
         
         * <details>
           
-          <summary><code>prefix</code> (string)</summary>
+          <summary><h6><code>prefix</h6></code> (string)</summary>
           
           <br>
           
@@ -1001,7 +969,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
         </details>
       * <details>
         
-        <summary><code>url</code> (string)</summary>
+        <summary><h6><code>url</h6></code> (string)</summary>
         
         <br>
         
@@ -1018,9 +986,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
     </details>
   * <details>
     
-    <summary><code>lists</code> (table)</summary>
-    
-    <h6>
+    <summary><h6><code>lists</h6></code> (table)</summary>
     
     <div>
     
@@ -1028,19 +994,17 @@ Neorg under a single tree of highlights: `@neorg.*`.
     
     </div>
     
-    </h6>
-    
     
     * <details>
       
-      <summary><code>ordered</code> (table)</summary>
+      <summary><h6><code>ordered</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>prefix</code> (string)</summary>
+        <summary><h6><code>prefix</h6></code> (string)</summary>
         
         <br>
         
@@ -1054,14 +1018,14 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>unordered</code> (table)</summary>
+      <summary><h6><code>unordered</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>prefix</code> (string)</summary>
+        <summary><h6><code>prefix</h6></code> (string)</summary>
         
         <br>
         
@@ -1078,9 +1042,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
     </details>
   * <details>
     
-    <summary><code>markup</code> (table)</summary>
-    
-    <h6>
+    <summary><h6><code>markup</h6></code> (table)</summary>
     
     <div>
     
@@ -1090,19 +1052,17 @@ Neorg under a single tree of highlights: `@neorg.*`.
     
     </div>
     
-    </h6>
-    
     
     * <details>
       
-      <summary><code>bold</code> (table)</summary>
+      <summary><h6><code>bold</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>delimiter</code> (string)</summary>
+        <summary><h6><code>delimiter</h6></code> (string)</summary>
         
         <br>
         
@@ -1116,7 +1076,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>free_form_delimiter</code> (string)</summary>
+      <summary><h6><code>free_form_delimiter</h6></code> (string)</summary>
       
       <br>
       
@@ -1127,14 +1087,14 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>inline_comment</code> (table)</summary>
+      <summary><h6><code>inline_comment</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>delimiter</code> (string)</summary>
+        <summary><h6><code>delimiter</h6></code> (string)</summary>
         
         <br>
         
@@ -1148,14 +1108,14 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>inline_math</code> (table)</summary>
+      <summary><h6><code>inline_math</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>delimiter</code> (string)</summary>
+        <summary><h6><code>delimiter</h6></code> (string)</summary>
         
         <br>
         
@@ -1169,14 +1129,14 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>italic</code> (table)</summary>
+      <summary><h6><code>italic</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>delimiter</code> (string)</summary>
+        <summary><h6><code>delimiter</h6></code> (string)</summary>
         
         <br>
         
@@ -1190,14 +1150,14 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>spoiler</code> (table)</summary>
+      <summary><h6><code>spoiler</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>delimiter</code> (string)</summary>
+        <summary><h6><code>delimiter</h6></code> (string)</summary>
         
         <br>
         
@@ -1211,14 +1171,14 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>strikethrough</code> (table)</summary>
+      <summary><h6><code>strikethrough</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>delimiter</code> (string)</summary>
+        <summary><h6><code>delimiter</h6></code> (string)</summary>
         
         <br>
         
@@ -1232,14 +1192,14 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>subscript</code> (table)</summary>
+      <summary><h6><code>subscript</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>delimiter</code> (string)</summary>
+        <summary><h6><code>delimiter</h6></code> (string)</summary>
         
         <br>
         
@@ -1253,14 +1213,14 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>superscript</code> (table)</summary>
+      <summary><h6><code>superscript</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>delimiter</code> (string)</summary>
+        <summary><h6><code>delimiter</h6></code> (string)</summary>
         
         <br>
         
@@ -1274,14 +1234,14 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>underline</code> (table)</summary>
+      <summary><h6><code>underline</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>delimiter</code> (string)</summary>
+        <summary><h6><code>delimiter</h6></code> (string)</summary>
         
         <br>
         
@@ -1295,14 +1255,14 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>variable</code> (table)</summary>
+      <summary><h6><code>variable</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>delimiter</code> (string)</summary>
+        <summary><h6><code>delimiter</h6></code> (string)</summary>
         
         <br>
         
@@ -1316,14 +1276,14 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>verbatim</code> (table)</summary>
+      <summary><h6><code>verbatim</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>delimiter</code> (string)</summary>
+        <summary><h6><code>delimiter</h6></code> (string)</summary>
         
         <br>
         
@@ -1340,9 +1300,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
     </details>
   * <details>
     
-    <summary><code>modifiers</code> (table)</summary>
-    
-    <h6>
+    <summary><h6><code>modifiers</h6></code> (table)</summary>
     
     <div>
     
@@ -1355,12 +1313,10 @@ Neorg under a single tree of highlights: `@neorg.*`.
     
     </div>
     
-    </h6>
-    
     
     * <details>
       
-      <summary><code>escape</code> (string)</summary>
+      <summary><h6><code>escape</h6></code> (string)</summary>
       
       <br>
       
@@ -1371,7 +1327,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>link</code> (string)</summary>
+      <summary><h6><code>link</h6></code> (string)</summary>
       
       <br>
       
@@ -1385,9 +1341,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
     </details>
   * <details>
     
-    <summary><code>quotes</code> (table)</summary>
-    
-    <h6>
+    <summary><h6><code>quotes</h6></code> (table)</summary>
     
     <div>
     
@@ -1395,19 +1349,17 @@ Neorg under a single tree of highlights: `@neorg.*`.
     
     </div>
     
-    </h6>
-    
     
     * <details>
       
-      <summary><code>1</code> (table)</summary>
+      <summary><h6><code>1</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>content</code> (string)</summary>
+        <summary><h6><code>content</h6></code> (string)</summary>
         
         <br>
         
@@ -1418,7 +1370,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
         </details>
       * <details>
         
-        <summary><code>prefix</code> (string)</summary>
+        <summary><h6><code>prefix</h6></code> (string)</summary>
         
         <br>
         
@@ -1432,14 +1384,14 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>2</code> (table)</summary>
+      <summary><h6><code>2</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>content</code> (string)</summary>
+        <summary><h6><code>content</h6></code> (string)</summary>
         
         <br>
         
@@ -1450,7 +1402,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
         </details>
       * <details>
         
-        <summary><code>prefix</code> (string)</summary>
+        <summary><h6><code>prefix</h6></code> (string)</summary>
         
         <br>
         
@@ -1464,14 +1416,14 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>3</code> (table)</summary>
+      <summary><h6><code>3</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>content</code> (string)</summary>
+        <summary><h6><code>content</h6></code> (string)</summary>
         
         <br>
         
@@ -1482,7 +1434,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
         </details>
       * <details>
         
-        <summary><code>prefix</code> (string)</summary>
+        <summary><h6><code>prefix</h6></code> (string)</summary>
         
         <br>
         
@@ -1496,14 +1448,14 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>4</code> (table)</summary>
+      <summary><h6><code>4</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>content</code> (string)</summary>
+        <summary><h6><code>content</h6></code> (string)</summary>
         
         <br>
         
@@ -1514,7 +1466,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
         </details>
       * <details>
         
-        <summary><code>prefix</code> (string)</summary>
+        <summary><h6><code>prefix</h6></code> (string)</summary>
         
         <br>
         
@@ -1528,14 +1480,14 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>5</code> (table)</summary>
+      <summary><h6><code>5</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>content</code> (string)</summary>
+        <summary><h6><code>content</h6></code> (string)</summary>
         
         <br>
         
@@ -1546,7 +1498,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
         </details>
       * <details>
         
-        <summary><code>prefix</code> (string)</summary>
+        <summary><h6><code>prefix</h6></code> (string)</summary>
         
         <br>
         
@@ -1560,14 +1512,14 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>6</code> (table)</summary>
+      <summary><h6><code>6</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>content</code> (string)</summary>
+        <summary><h6><code>content</h6></code> (string)</summary>
         
         <br>
         
@@ -1578,7 +1530,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
         </details>
       * <details>
         
-        <summary><code>prefix</code> (string)</summary>
+        <summary><h6><code>prefix</h6></code> (string)</summary>
         
         <br>
         
@@ -1595,9 +1547,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
     </details>
   * <details>
     
-    <summary><code>selection_window</code> (table)</summary>
-    
-    <h6>
+    <summary><h6><code>selection_window</h6></code> (table)</summary>
     
     <div>
     
@@ -1605,12 +1555,10 @@ Neorg under a single tree of highlights: `@neorg.*`.
     
     </div>
     
-    </h6>
-    
     
     * <details>
       
-      <summary><code>arrow</code> (string)</summary>
+      <summary><h6><code>arrow</h6></code> (string)</summary>
       
       <br>
       
@@ -1621,7 +1569,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>heading</code> (string)</summary>
+      <summary><h6><code>heading</h6></code> (string)</summary>
       
       <br>
       
@@ -1632,7 +1580,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>key</code> (string)</summary>
+      <summary><h6><code>key</h6></code> (string)</summary>
       
       <br>
       
@@ -1643,7 +1591,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>keyname</code> (string)</summary>
+      <summary><h6><code>keyname</h6></code> (string)</summary>
       
       <br>
       
@@ -1654,7 +1602,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>nestedkeyname</code> (string)</summary>
+      <summary><h6><code>nestedkeyname</h6></code> (string)</summary>
       
       <br>
       
@@ -1668,9 +1616,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
     </details>
   * <details>
     
-    <summary><code>tags</code> (table)</summary>
-    
-    <h6>
+    <summary><h6><code>tags</h6></code> (table)</summary>
     
     <div>
     
@@ -1680,14 +1626,10 @@ Neorg under a single tree of highlights: `@neorg.*`.
     
     </div>
     
-    </h6>
-    
     
     * <details>
       
-      <summary><code>carryover</code> (table)</summary>
-      
-      <h6>
+      <summary><h6><code>carryover</h6></code> (table)</summary>
       
       <div>
       
@@ -1695,12 +1637,10 @@ Neorg under a single tree of highlights: `@neorg.*`.
       
       </div>
       
-      </h6>
-      
       
       * <details>
         
-        <summary><code>begin</code> (string)</summary>
+        <summary><h6><code>begin</h6></code> (string)</summary>
         
         <br>
         
@@ -1711,14 +1651,14 @@ Neorg under a single tree of highlights: `@neorg.*`.
         </details>
       * <details>
         
-        <summary><code>name</code> (table)</summary>
+        <summary><h6><code>name</h6></code> (table)</summary>
         
         <br>
         
         
         * <details>
           
-          <summary><code>delimiter</code> (string)</summary>
+          <summary><h6><code>delimiter</h6></code> (string)</summary>
           
           <br>
           
@@ -1729,7 +1669,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
           </details>
         * <details>
           
-          <summary><code>word</code> (string)</summary>
+          <summary><h6><code>word</h6></code> (string)</summary>
           
           <br>
           
@@ -1743,7 +1683,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
         </details>
       * <details>
         
-        <summary><code>parameters</code> (string)</summary>
+        <summary><h6><code>parameters</h6></code> (string)</summary>
         
         <br>
         
@@ -1757,9 +1697,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>comment</code> (table)</summary>
-      
-      <h6>
+      <summary><h6><code>comment</h6></code> (table)</summary>
       
       <div>
       
@@ -1769,12 +1707,10 @@ Neorg under a single tree of highlights: `@neorg.*`.
       
       </div>
       
-      </h6>
-      
       
       * <details>
         
-        <summary><code>content</code> (string)</summary>
+        <summary><h6><code>content</h6></code> (string)</summary>
         
         <br>
         
@@ -1788,9 +1724,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>ranged_verbatim</code> (table)</summary>
-      
-      <h6>
+      <summary><h6><code>ranged_verbatim</h6></code> (table)</summary>
       
       <div>
       
@@ -1798,12 +1732,10 @@ Neorg under a single tree of highlights: `@neorg.*`.
       
       </div>
       
-      </h6>
-      
       
       * <details>
         
-        <summary><code>begin</code> (string)</summary>
+        <summary><h6><code>begin</h6></code> (string)</summary>
         
         <br>
         
@@ -1814,21 +1746,21 @@ Neorg under a single tree of highlights: `@neorg.*`.
         </details>
       * <details>
         
-        <summary><code>document_meta</code> (table)</summary>
+        <summary><h6><code>document_meta</h6></code> (table)</summary>
         
         <br>
         
         
         * <details>
           
-          <summary><code>array</code> (table)</summary>
+          <summary><h6><code>array</h6></code> (table)</summary>
           
           <br>
           
           
           * <details>
             
-            <summary><code>bracket</code> (string)</summary>
+            <summary><h6><code>bracket</h6></code> (string)</summary>
             
             <br>
             
@@ -1839,7 +1771,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
             </details>
           * <details>
             
-            <summary><code>value</code> (string)</summary>
+            <summary><h6><code>value</h6></code> (string)</summary>
             
             <br>
             
@@ -1853,7 +1785,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
           </details>
         * <details>
           
-          <summary><code>authors</code> (string)</summary>
+          <summary><h6><code>authors</h6></code> (string)</summary>
           
           <br>
           
@@ -1864,7 +1796,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
           </details>
         * <details>
           
-          <summary><code>categories</code> (string)</summary>
+          <summary><h6><code>categories</h6></code> (string)</summary>
           
           <br>
           
@@ -1875,7 +1807,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
           </details>
         * <details>
           
-          <summary><code>created</code> (string)</summary>
+          <summary><h6><code>created</h6></code> (string)</summary>
           
           <br>
           
@@ -1886,7 +1818,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
           </details>
         * <details>
           
-          <summary><code>description</code> (string)</summary>
+          <summary><h6><code>description</h6></code> (string)</summary>
           
           <br>
           
@@ -1897,7 +1829,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
           </details>
         * <details>
           
-          <summary><code>key</code> (string)</summary>
+          <summary><h6><code>key</h6></code> (string)</summary>
           
           <br>
           
@@ -1908,7 +1840,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
           </details>
         * <details>
           
-          <summary><code>number</code> (string)</summary>
+          <summary><h6><code>number</h6></code> (string)</summary>
           
           <br>
           
@@ -1919,14 +1851,14 @@ Neorg under a single tree of highlights: `@neorg.*`.
           </details>
         * <details>
           
-          <summary><code>object</code> (table)</summary>
+          <summary><h6><code>object</h6></code> (table)</summary>
           
           <br>
           
           
           * <details>
             
-            <summary><code>bracket</code> (string)</summary>
+            <summary><h6><code>bracket</h6></code> (string)</summary>
             
             <br>
             
@@ -1940,7 +1872,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
           </details>
         * <details>
           
-          <summary><code>title</code> (string)</summary>
+          <summary><h6><code>title</h6></code> (string)</summary>
           
           <br>
           
@@ -1951,7 +1883,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
           </details>
         * <details>
           
-          <summary><code>trailing</code> (string)</summary>
+          <summary><h6><code>trailing</h6></code> (string)</summary>
           
           <br>
           
@@ -1962,7 +1894,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
           </details>
         * <details>
           
-          <summary><code>updated</code> (string)</summary>
+          <summary><h6><code>updated</h6></code> (string)</summary>
           
           <br>
           
@@ -1973,7 +1905,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
           </details>
         * <details>
           
-          <summary><code>value</code> (string)</summary>
+          <summary><h6><code>value</h6></code> (string)</summary>
           
           <br>
           
@@ -1984,7 +1916,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
           </details>
         * <details>
           
-          <summary><code>version</code> (string)</summary>
+          <summary><h6><code>version</h6></code> (string)</summary>
           
           <br>
           
@@ -1998,7 +1930,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
         </details>
       * <details>
         
-        <summary><code>end</code> (string)</summary>
+        <summary><h6><code>end</h6></code> (string)</summary>
         
         <br>
         
@@ -2009,14 +1941,14 @@ Neorg under a single tree of highlights: `@neorg.*`.
         </details>
       * <details>
         
-        <summary><code>name</code> (table)</summary>
+        <summary><h6><code>name</h6></code> (table)</summary>
         
         <br>
         
         
         * <details>
           
-          <summary><code>delimiter</code> (string)</summary>
+          <summary><h6><code>delimiter</h6></code> (string)</summary>
           
           <br>
           
@@ -2027,7 +1959,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
           </details>
         * <details>
           
-          <summary><code>word</code> (string)</summary>
+          <summary><h6><code>word</h6></code> (string)</summary>
           
           <br>
           
@@ -2041,7 +1973,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
         </details>
       * <details>
         
-        <summary><code>parameters</code> (string)</summary>
+        <summary><h6><code>parameters</h6></code> (string)</summary>
         
         <br>
         
@@ -2058,9 +1990,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
     </details>
   * <details>
     
-    <summary><code>todo_items</code> (table)</summary>
-    
-    <h6>
+    <summary><h6><code>todo_items</h6></code> (table)</summary>
     
     <div>
     
@@ -2072,12 +2002,10 @@ Neorg under a single tree of highlights: `@neorg.*`.
     
     </div>
     
-    </h6>
-    
     
     * <details>
       
-      <summary><code>cancelled</code> (string)</summary>
+      <summary><h6><code>cancelled</h6></code> (string)</summary>
       
       <br>
       
@@ -2088,7 +2016,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>done</code> (string)</summary>
+      <summary><h6><code>done</h6></code> (string)</summary>
       
       <br>
       
@@ -2099,7 +2027,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>on_hold</code> (string)</summary>
+      <summary><h6><code>on_hold</h6></code> (string)</summary>
       
       <br>
       
@@ -2110,7 +2038,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>pending</code> (string)</summary>
+      <summary><h6><code>pending</h6></code> (string)</summary>
       
       <br>
       
@@ -2121,7 +2049,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>recurring</code> (string)</summary>
+      <summary><h6><code>recurring</h6></code> (string)</summary>
       
       <br>
       
@@ -2132,7 +2060,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>uncertain</code> (string)</summary>
+      <summary><h6><code>uncertain</h6></code> (string)</summary>
       
       <br>
       
@@ -2143,7 +2071,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>undone</code> (string)</summary>
+      <summary><h6><code>undone</h6></code> (string)</summary>
       
       <br>
       
@@ -2154,7 +2082,7 @@ Neorg under a single tree of highlights: `@neorg.*`.
       </details>
     * <details>
       
-      <summary><code>urgent</code> (string)</summary>
+      <summary><h6><code>urgent</h6></code> (string)</summary>
       
       <br>
       

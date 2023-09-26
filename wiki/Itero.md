@@ -61,9 +61,7 @@ the item under the cursor with the `<C-t>` and `<C-d>` bindings.
 
 * <details open>
   
-  <summary><code>iterables</code> (list)</summary>
-  
-  <h6>
+  <summary><h6><code>iterables</h6></code> (list)</summary>
   
   <div>
   
@@ -72,8 +70,6 @@ the item under the cursor with the `<C-t>` and `<C-d>` bindings.
   items from being iterable.
   
   </div>
-  
-  </h6>
   
   
   * <details>
@@ -126,9 +122,7 @@ the item under the cursor with the `<C-t>` and `<C-d>` bindings.
 
 * <details open>
   
-  <summary><code>retain_extensions</code> (table)</summary>
-  
-  <h6>
+  <summary><h6><code>retain_extensions</h6></code> (table)</summary>
   
   <div>
   
@@ -140,12 +134,10 @@ the item under the cursor with the `<C-t>` and `<C-d>` bindings.
   
   </div>
   
-  </h6>
-  
   
   * <details>
     
-    <summary><code>ordered_list%d</code> (boolean)</summary>
+    <summary><h6><code>ordered_list%d</h6></code> (boolean)</summary>
     
     <br>
     
@@ -156,7 +148,7 @@ the item under the cursor with the `<C-t>` and `<C-d>` bindings.
     </details>
   * <details>
     
-    <summary><code>unordered_list%d</code> (boolean)</summary>
+    <summary><h6><code>unordered_list%d</h6></code> (boolean)</summary>
     
     <br>
     

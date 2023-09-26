@@ -30,9 +30,7 @@ the original file/directory in-place.
 
 * <details open>
   
-  <summary><code>ask_for_backup</code> (boolean)</summary>
-  
-  <h6>
+  <summary><h6><code>ask_for_backup</h6></code> (boolean)</summary>
   
   <div>
   
@@ -43,8 +41,6 @@ the original file/directory in-place.
   this set to `true`.
   
   </div>
-  
-  </h6>
   
   ```lua
   true

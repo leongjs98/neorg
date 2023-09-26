@@ -27,9 +27,7 @@ as a fallback to build up a tree of categories, titles and descriptions.
 
 * <details open>
   
-  <summary><code>strategy</code> (string)</summary>
-  
-  <h6>
+  <summary><h6><code>strategy</h6></code> (string)</summary>
   
   <div>
   
@@ -41,8 +39,6 @@ as a fallback to build up a tree of categories, titles and descriptions.
   @type string|fun(files: string[], ws_root: string, heading_level: number?): string[]?
   
   </div>
-  
-  </h6>
   
   ```lua
   "default"

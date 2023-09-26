@@ -26,9 +26,7 @@ overwritten soon anyway.
 
 * <details open>
   
-  <summary><code>zen_mode</code> (string)</summary>
-  
-  <h6>
+  <summary><h6><code>zen_mode</h6></code> (string)</summary>
   
   <div>
   
@@ -38,8 +36,6 @@ overwritten soon anyway.
   - `truezen` - https://github.com/Pocco81/TrueZen.nvim
   
   </div>
-  
-  </h6>
   
   ```lua
   ""

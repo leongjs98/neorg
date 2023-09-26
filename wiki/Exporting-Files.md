@@ -38,9 +38,7 @@ It takes 3 arguments:
 
 * <details open>
   
-  <summary><code>export_dir</code> (string)</summary>
-  
-  <h6>
+  <summary><h6><code>export_dir</h6></code> (string)</summary>
   
   <div>
   
@@ -48,8 +46,6 @@ It takes 3 arguments:
   The string can be formatted with the special keys: `<export-dir>` and `<language>`.
   
   </div>
-  
-  </h6>
   
   ```lua
   "<export-dir>/<language>-export"

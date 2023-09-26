@@ -28,9 +28,7 @@ Norg document. The TOC view updates automatically when switching buffers.
 
 * <details open>
   
-  <summary><code>close_after_use</code> (boolean)</summary>
-  
-  <h6>
+  <summary><h6><code>close_after_use</h6></code> (boolean)</summary>
   
   <div>
   
@@ -38,8 +36,6 @@ Norg document. The TOC view updates automatically when switching buffers.
   is picked.
   
   </div>
-  
-  </h6>
   
   ```lua
   false

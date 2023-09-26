@@ -25,9 +25,7 @@ installed on your system.
 
 * <details open>
   
-  <summary><code>folds</code> (boolean)</summary>
-  
-  <h6>
+  <summary><h6><code>folds</h6></code> (boolean)</summary>
   
   <div>
   
@@ -39,8 +37,6 @@ installed on your system.
   
   </div>
   
-  </h6>
-  
   ```lua
   true
   ```
@@ -49,9 +45,7 @@ installed on your system.
 
 * <details open>
   
-  <summary><code>icon_preset</code> (string)</summary>
-  
-  <h6>
+  <summary><h6><code>icon_preset</h6></code> (string)</summary>
   
   <div>
   
@@ -64,8 +58,6 @@ installed on your system.
   
   </div>
   
-  </h6>
-  
   ```lua
   "basic"
   ```
@@ -74,9 +66,7 @@ installed on your system.
 
 * <details open>
   
-  <summary><code>icons</code> (table)</summary>
-  
-  <h6>
+  <summary><h6><code>icons</h6></code> (table)</summary>
   
   <div>
   
@@ -95,14 +85,10 @@ installed on your system.
   
   </div>
   
-  </h6>
-  
   
   * <details>
     
-    <summary><code>code_block</code> (table)</summary>
-    
-    <h6>
+    <summary><h6><code>code_block</h6></code> (table)</summary>
     
     <div>
     
@@ -111,14 +97,10 @@ installed on your system.
     
     </div>
     
-    </h6>
-    
     
     * <details>
       
-      <summary><code>conceal</code> (boolean)</summary>
-      
-      <h6>
+      <summary><h6><code>conceal</h6></code> (boolean)</summary>
       
       <div>
       
@@ -127,8 +109,6 @@ installed on your system.
       
       </div>
       
-      </h6>
-      
       ```lua
       false
       ```
@@ -136,9 +116,7 @@ installed on your system.
       </details>
     * <details>
       
-      <summary><code>content_only</code> (boolean)</summary>
-      
-      <h6>
+      <summary><h6><code>content_only</h6></code> (boolean)</summary>
       
       <div>
       
@@ -147,8 +125,6 @@ installed on your system.
       
       </div>
       
-      </h6>
-      
       ```lua
       true
       ```
@@ -156,7 +132,7 @@ installed on your system.
       </details>
     * <details>
       
-      <summary><code>highlight</code> (string)</summary>
+      <summary><h6><code>highlight</h6></code> (string)</summary>
       
       <br>
       
@@ -167,7 +143,7 @@ installed on your system.
       </details>
     * <details>
       
-      <summary><code>insert_enabled</code> (boolean)</summary>
+      <summary><h6><code>insert_enabled</h6></code> (boolean)</summary>
       
       <br>
       
@@ -178,7 +154,7 @@ installed on your system.
       </details>
     * <details>
       
-      <summary><code>nodes</code> (list)</summary>
+      <summary><h6><code>nodes</h6></code> (list)</summary>
       
       <br>
       
@@ -199,9 +175,7 @@ installed on your system.
       </details>
     * <details>
       
-      <summary><code>padding</code> (table)</summary>
-      
-      <h6>
+      <summary><h6><code>padding</h6></code> (table)</summary>
       
       <div>
       
@@ -211,12 +185,10 @@ installed on your system.
       
       </div>
       
-      </h6>
-      
       
       * <details>
         
-        <summary><code>left</code> (number)</summary>
+        <summary><h6><code>left</h6></code> (number)</summary>
         
         <br>
         
@@ -227,7 +199,7 @@ installed on your system.
         </details>
       * <details>
         
-        <summary><code>right</code> (number)</summary>
+        <summary><h6><code>right</h6></code> (number)</summary>
         
         <br>
         
@@ -241,7 +213,7 @@ installed on your system.
       </details>
     * <details>
       
-      <summary><code>render</code> (function)</summary>
+      <summary><h6><code>render</h6></code> (function)</summary>
       
       <br>
       
@@ -252,9 +224,7 @@ installed on your system.
       </details>
     * <details>
       
-      <summary><code>width</code> (string)</summary>
-      
-      <h6>
+      <summary><h6><code>width</h6></code> (string)</summary>
       
       <div>
       
@@ -268,8 +238,6 @@ installed on your system.
       
       </div>
       
-      </h6>
-      
       ```lua
       "fullwidth"
       ```
@@ -280,21 +248,21 @@ installed on your system.
     </details>
   * <details>
     
-    <summary><code>definition</code> (table)</summary>
+    <summary><h6><code>definition</h6></code> (table)</summary>
     
     <br>
     
     
     * <details>
       
-      <summary><code>multi_prefix</code> (table)</summary>
+      <summary><h6><code>multi_prefix</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>icon</code> (string)</summary>
+        <summary><h6><code>icon</h6></code> (string)</summary>
         
         <br>
         
@@ -305,7 +273,7 @@ installed on your system.
         </details>
       * <details>
         
-        <summary><code>nodes</code> (list)</summary>
+        <summary><h6><code>nodes</h6></code> (list)</summary>
         
         <br>
         
@@ -326,7 +294,7 @@ installed on your system.
         </details>
       * <details>
         
-        <summary><code>render</code> (function)</summary>
+        <summary><h6><code>render</h6></code> (function)</summary>
         
         <br>
         
@@ -340,14 +308,14 @@ installed on your system.
       </details>
     * <details>
       
-      <summary><code>multi_suffix</code> (table)</summary>
+      <summary><h6><code>multi_suffix</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>icon</code> (string)</summary>
+        <summary><h6><code>icon</h6></code> (string)</summary>
         
         <br>
         
@@ -358,7 +326,7 @@ installed on your system.
         </details>
       * <details>
         
-        <summary><code>nodes</code> (list)</summary>
+        <summary><h6><code>nodes</h6></code> (list)</summary>
         
         <br>
         
@@ -379,7 +347,7 @@ installed on your system.
         </details>
       * <details>
         
-        <summary><code>render</code> (function)</summary>
+        <summary><h6><code>render</h6></code> (function)</summary>
         
         <br>
         
@@ -393,14 +361,14 @@ installed on your system.
       </details>
     * <details>
       
-      <summary><code>single</code> (table)</summary>
+      <summary><h6><code>single</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>icon</code> (string)</summary>
+        <summary><h6><code>icon</h6></code> (string)</summary>
         
         <br>
         
@@ -411,7 +379,7 @@ installed on your system.
         </details>
       * <details>
         
-        <summary><code>nodes</code> (table)</summary>
+        <summary><h6><code>nodes</h6></code> (table)</summary>
         
         <br>
         
@@ -429,7 +397,7 @@ installed on your system.
           </details>
         * <details>
           
-          <summary><code>concealed</code> (list)</summary>
+          <summary><h6><code>concealed</h6></code> (list)</summary>
           
           <br>
           
@@ -453,7 +421,7 @@ installed on your system.
         </details>
       * <details>
         
-        <summary><code>render</code> (function)</summary>
+        <summary><h6><code>render</h6></code> (function)</summary>
         
         <br>
         
@@ -470,21 +438,21 @@ installed on your system.
     </details>
   * <details>
     
-    <summary><code>delimiter</code> (table)</summary>
+    <summary><h6><code>delimiter</h6></code> (table)</summary>
     
     <br>
     
     
     * <details>
       
-      <summary><code>horizontal_line</code> (table)</summary>
+      <summary><h6><code>horizontal_line</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>highlight</code> (string)</summary>
+        <summary><h6><code>highlight</h6></code> (string)</summary>
         
         <br>
         
@@ -495,7 +463,7 @@ installed on your system.
         </details>
       * <details>
         
-        <summary><code>icon</code> (string)</summary>
+        <summary><h6><code>icon</h6></code> (string)</summary>
         
         <br>
         
@@ -506,7 +474,7 @@ installed on your system.
         </details>
       * <details>
         
-        <summary><code>nodes</code> (list)</summary>
+        <summary><h6><code>nodes</h6></code> (list)</summary>
         
         <br>
         
@@ -527,7 +495,7 @@ installed on your system.
         </details>
       * <details>
         
-        <summary><code>render</code> (function)</summary>
+        <summary><h6><code>render</h6></code> (function)</summary>
         
         <br>
         
@@ -541,14 +509,14 @@ installed on your system.
       </details>
     * <details>
       
-      <summary><code>strong</code> (table)</summary>
+      <summary><h6><code>strong</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>highlight</code> (string)</summary>
+        <summary><h6><code>highlight</h6></code> (string)</summary>
         
         <br>
         
@@ -559,7 +527,7 @@ installed on your system.
         </details>
       * <details>
         
-        <summary><code>icon</code> (string)</summary>
+        <summary><h6><code>icon</h6></code> (string)</summary>
         
         <br>
         
@@ -570,7 +538,7 @@ installed on your system.
         </details>
       * <details>
         
-        <summary><code>nodes</code> (list)</summary>
+        <summary><h6><code>nodes</h6></code> (list)</summary>
         
         <br>
         
@@ -591,7 +559,7 @@ installed on your system.
         </details>
       * <details>
         
-        <summary><code>render</code> (function)</summary>
+        <summary><h6><code>render</h6></code> (function)</summary>
         
         <br>
         
@@ -605,14 +573,14 @@ installed on your system.
       </details>
     * <details>
       
-      <summary><code>weak</code> (table)</summary>
+      <summary><h6><code>weak</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>highlight</code> (string)</summary>
+        <summary><h6><code>highlight</h6></code> (string)</summary>
         
         <br>
         
@@ -623,7 +591,7 @@ installed on your system.
         </details>
       * <details>
         
-        <summary><code>icon</code> (string)</summary>
+        <summary><h6><code>icon</h6></code> (string)</summary>
         
         <br>
         
@@ -634,7 +602,7 @@ installed on your system.
         </details>
       * <details>
         
-        <summary><code>nodes</code> (list)</summary>
+        <summary><h6><code>nodes</h6></code> (list)</summary>
         
         <br>
         
@@ -655,7 +623,7 @@ installed on your system.
         </details>
       * <details>
         
-        <summary><code>render</code> (function)</summary>
+        <summary><h6><code>render</h6></code> (function)</summary>
         
         <br>
         
@@ -672,21 +640,21 @@ installed on your system.
     </details>
   * <details>
     
-    <summary><code>footnote</code> (table)</summary>
+    <summary><h6><code>footnote</h6></code> (table)</summary>
     
     <br>
     
     
     * <details>
       
-      <summary><code>multi_prefix</code> (table)</summary>
+      <summary><h6><code>multi_prefix</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>icon</code> (string)</summary>
+        <summary><h6><code>icon</h6></code> (string)</summary>
         
         <br>
         
@@ -697,7 +665,7 @@ installed on your system.
         </details>
       * <details>
         
-        <summary><code>nodes</code> (list)</summary>
+        <summary><h6><code>nodes</h6></code> (list)</summary>
         
         <br>
         
@@ -718,7 +686,7 @@ installed on your system.
         </details>
       * <details>
         
-        <summary><code>render</code> (function)</summary>
+        <summary><h6><code>render</h6></code> (function)</summary>
         
         <br>
         
@@ -732,14 +700,14 @@ installed on your system.
       </details>
     * <details>
       
-      <summary><code>multi_suffix</code> (table)</summary>
+      <summary><h6><code>multi_suffix</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>icon</code> (string)</summary>
+        <summary><h6><code>icon</h6></code> (string)</summary>
         
         <br>
         
@@ -750,7 +718,7 @@ installed on your system.
         </details>
       * <details>
         
-        <summary><code>nodes</code> (list)</summary>
+        <summary><h6><code>nodes</h6></code> (list)</summary>
         
         <br>
         
@@ -771,7 +739,7 @@ installed on your system.
         </details>
       * <details>
         
-        <summary><code>render</code> (function)</summary>
+        <summary><h6><code>render</h6></code> (function)</summary>
         
         <br>
         
@@ -785,14 +753,14 @@ installed on your system.
       </details>
     * <details>
       
-      <summary><code>single</code> (table)</summary>
+      <summary><h6><code>single</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>icon</code> (string)</summary>
+        <summary><h6><code>icon</h6></code> (string)</summary>
         
         <br>
         
@@ -803,7 +771,7 @@ installed on your system.
         </details>
       * <details>
         
-        <summary><code>nodes</code> (table)</summary>
+        <summary><h6><code>nodes</h6></code> (table)</summary>
         
         <br>
         
@@ -821,7 +789,7 @@ installed on your system.
           </details>
         * <details>
           
-          <summary><code>concealed</code> (list)</summary>
+          <summary><h6><code>concealed</h6></code> (list)</summary>
           
           <br>
           
@@ -845,7 +813,7 @@ installed on your system.
         </details>
       * <details>
         
-        <summary><code>render</code> (function)</summary>
+        <summary><h6><code>render</h6></code> (function)</summary>
         
         <br>
         
@@ -862,14 +830,14 @@ installed on your system.
     </details>
   * <details>
     
-    <summary><code>heading</code> (table)</summary>
+    <summary><h6><code>heading</h6></code> (table)</summary>
     
     <br>
     
     
     * <details>
       
-      <summary><code>highlights</code> (list)</summary>
+      <summary><h6><code>highlights</h6></code> (list)</summary>
       
       <br>
       
@@ -945,7 +913,7 @@ installed on your system.
       </details>
     * <details>
       
-      <summary><code>icons</code> (list)</summary>
+      <summary><h6><code>icons</h6></code> (list)</summary>
       
       <br>
       
@@ -1021,7 +989,7 @@ installed on your system.
       </details>
     * <details>
       
-      <summary><code>nodes</code> (table)</summary>
+      <summary><h6><code>nodes</h6></code> (table)</summary>
       
       <br>
       
@@ -1094,7 +1062,7 @@ installed on your system.
         </details>
       * <details>
         
-        <summary><code>concealed</code> (list)</summary>
+        <summary><h6><code>concealed</h6></code> (list)</summary>
         
         <br>
         
@@ -1173,7 +1141,7 @@ installed on your system.
       </details>
     * <details>
       
-      <summary><code>render</code> (function)</summary>
+      <summary><h6><code>render</h6></code> (function)</summary>
       
       <br>
       
@@ -1187,14 +1155,14 @@ installed on your system.
     </details>
   * <details>
     
-    <summary><code>list</code> (table)</summary>
+    <summary><h6><code>list</h6></code> (table)</summary>
     
     <br>
     
     
     * <details>
       
-      <summary><code>icons</code> (list)</summary>
+      <summary><h6><code>icons</h6></code> (list)</summary>
       
       <br>
       
@@ -1215,7 +1183,7 @@ installed on your system.
       </details>
     * <details>
       
-      <summary><code>nodes</code> (list)</summary>
+      <summary><h6><code>nodes</h6></code> (list)</summary>
       
       <br>
       
@@ -1291,7 +1259,7 @@ installed on your system.
       </details>
     * <details>
       
-      <summary><code>render</code> (function)</summary>
+      <summary><h6><code>render</h6></code> (function)</summary>
       
       <br>
       
@@ -1305,21 +1273,21 @@ installed on your system.
     </details>
   * <details>
     
-    <summary><code>markup</code> (table)</summary>
+    <summary><h6><code>markup</h6></code> (table)</summary>
     
     <br>
     
     
     * <details>
       
-      <summary><code>spoiler</code> (table)</summary>
+      <summary><h6><code>spoiler</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>highlight</code> (string)</summary>
+        <summary><h6><code>highlight</h6></code> (string)</summary>
         
         <br>
         
@@ -1330,7 +1298,7 @@ installed on your system.
         </details>
       * <details>
         
-        <summary><code>icon</code> (string)</summary>
+        <summary><h6><code>icon</h6></code> (string)</summary>
         
         <br>
         
@@ -1341,7 +1309,7 @@ installed on your system.
         </details>
       * <details>
         
-        <summary><code>nodes</code> (list)</summary>
+        <summary><h6><code>nodes</h6></code> (list)</summary>
         
         <br>
         
@@ -1362,7 +1330,7 @@ installed on your system.
         </details>
       * <details>
         
-        <summary><code>render</code> (function)</summary>
+        <summary><h6><code>render</h6></code> (function)</summary>
         
         <br>
         
@@ -1379,16 +1347,14 @@ installed on your system.
     </details>
   * <details>
     
-    <summary><code>ordered</code> (table)</summary>
+    <summary><h6><code>ordered</h6></code> (table)</summary>
     
     <br>
     
     
     * <details>
       
-      <summary><code>formatters</code> (list)</summary>
-      
-      <h6>
+      <summary><h6><code>formatters</h6></code> (list)</summary>
       
       <div>
       
@@ -1398,8 +1364,6 @@ installed on your system.
       `%s` is substituted with the string returned by the `generator`.
       
       </div>
-      
-      </h6>
       
       
       * <details>
@@ -1451,9 +1415,7 @@ installed on your system.
       </details>
     * <details>
       
-      <summary><code>generators</code> (list)</summary>
-      
-      <h6>
+      <summary><h6><code>generators</h6></code> (list)</summary>
       
       <div>
       
@@ -1464,8 +1426,6 @@ installed on your system.
       or `A, B, C, D...`, but one could opt for more complex generators.
       
       </div>
-      
-      </h6>
       
       
       * <details>
@@ -1517,7 +1477,7 @@ installed on your system.
       </details>
     * <details>
       
-      <summary><code>icons</code> (list)</summary>
+      <summary><h6><code>icons</h6></code> (list)</summary>
       
       <br>
       
@@ -1528,7 +1488,7 @@ installed on your system.
       </details>
     * <details>
       
-      <summary><code>nodes</code> (list)</summary>
+      <summary><h6><code>nodes</h6></code> (list)</summary>
       
       <br>
       
@@ -1604,7 +1564,7 @@ installed on your system.
       </details>
     * <details>
       
-      <summary><code>render</code> (function)</summary>
+      <summary><h6><code>render</h6></code> (function)</summary>
       
       <br>
       
@@ -1618,14 +1578,14 @@ installed on your system.
     </details>
   * <details>
     
-    <summary><code>quote</code> (table)</summary>
+    <summary><h6><code>quote</h6></code> (table)</summary>
     
     <br>
     
     
     * <details>
       
-      <summary><code>highlights</code> (list)</summary>
+      <summary><h6><code>highlights</h6></code> (list)</summary>
       
       <br>
       
@@ -1701,7 +1661,7 @@ installed on your system.
       </details>
     * <details>
       
-      <summary><code>icons</code> (list)</summary>
+      <summary><h6><code>icons</h6></code> (list)</summary>
       
       <br>
       
@@ -1722,7 +1682,7 @@ installed on your system.
       </details>
     * <details>
       
-      <summary><code>nodes</code> (list)</summary>
+      <summary><h6><code>nodes</h6></code> (list)</summary>
       
       <br>
       
@@ -1798,7 +1758,7 @@ installed on your system.
       </details>
     * <details>
       
-      <summary><code>render</code> (function)</summary>
+      <summary><h6><code>render</h6></code> (function)</summary>
       
       <br>
       
@@ -1812,21 +1772,21 @@ installed on your system.
     </details>
   * <details>
     
-    <summary><code>todo</code> (table)</summary>
+    <summary><h6><code>todo</h6></code> (table)</summary>
     
     <br>
     
     
     * <details>
       
-      <summary><code>cancelled</code> (table)</summary>
+      <summary><h6><code>cancelled</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>icon</code> (string)</summary>
+        <summary><h6><code>icon</h6></code> (string)</summary>
         
         <br>
         
@@ -1837,7 +1797,7 @@ installed on your system.
         </details>
       * <details>
         
-        <summary><code>nodes</code> (list)</summary>
+        <summary><h6><code>nodes</h6></code> (list)</summary>
         
         <br>
         
@@ -1858,7 +1818,7 @@ installed on your system.
         </details>
       * <details>
         
-        <summary><code>render</code> (function)</summary>
+        <summary><h6><code>render</h6></code> (function)</summary>
         
         <br>
         
@@ -1872,14 +1832,14 @@ installed on your system.
       </details>
     * <details>
       
-      <summary><code>done</code> (table)</summary>
+      <summary><h6><code>done</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>icon</code> (string)</summary>
+        <summary><h6><code>icon</h6></code> (string)</summary>
         
         <br>
         
@@ -1890,7 +1850,7 @@ installed on your system.
         </details>
       * <details>
         
-        <summary><code>nodes</code> (list)</summary>
+        <summary><h6><code>nodes</h6></code> (list)</summary>
         
         <br>
         
@@ -1911,7 +1871,7 @@ installed on your system.
         </details>
       * <details>
         
-        <summary><code>render</code> (function)</summary>
+        <summary><h6><code>render</h6></code> (function)</summary>
         
         <br>
         
@@ -1925,14 +1885,14 @@ installed on your system.
       </details>
     * <details>
       
-      <summary><code>on_hold</code> (table)</summary>
+      <summary><h6><code>on_hold</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>icon</code> (string)</summary>
+        <summary><h6><code>icon</h6></code> (string)</summary>
         
         <br>
         
@@ -1943,7 +1903,7 @@ installed on your system.
         </details>
       * <details>
         
-        <summary><code>nodes</code> (list)</summary>
+        <summary><h6><code>nodes</h6></code> (list)</summary>
         
         <br>
         
@@ -1964,7 +1924,7 @@ installed on your system.
         </details>
       * <details>
         
-        <summary><code>render</code> (function)</summary>
+        <summary><h6><code>render</h6></code> (function)</summary>
         
         <br>
         
@@ -1978,14 +1938,14 @@ installed on your system.
       </details>
     * <details>
       
-      <summary><code>pending</code> (table)</summary>
+      <summary><h6><code>pending</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>icon</code> (string)</summary>
+        <summary><h6><code>icon</h6></code> (string)</summary>
         
         <br>
         
@@ -1996,7 +1956,7 @@ installed on your system.
         </details>
       * <details>
         
-        <summary><code>nodes</code> (list)</summary>
+        <summary><h6><code>nodes</h6></code> (list)</summary>
         
         <br>
         
@@ -2017,7 +1977,7 @@ installed on your system.
         </details>
       * <details>
         
-        <summary><code>render</code> (function)</summary>
+        <summary><h6><code>render</h6></code> (function)</summary>
         
         <br>
         
@@ -2031,14 +1991,14 @@ installed on your system.
       </details>
     * <details>
       
-      <summary><code>recurring</code> (table)</summary>
+      <summary><h6><code>recurring</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>icon</code> (string)</summary>
+        <summary><h6><code>icon</h6></code> (string)</summary>
         
         <br>
         
@@ -2049,7 +2009,7 @@ installed on your system.
         </details>
       * <details>
         
-        <summary><code>nodes</code> (list)</summary>
+        <summary><h6><code>nodes</h6></code> (list)</summary>
         
         <br>
         
@@ -2070,7 +2030,7 @@ installed on your system.
         </details>
       * <details>
         
-        <summary><code>render</code> (function)</summary>
+        <summary><h6><code>render</h6></code> (function)</summary>
         
         <br>
         
@@ -2084,14 +2044,14 @@ installed on your system.
       </details>
     * <details>
       
-      <summary><code>uncertain</code> (table)</summary>
+      <summary><h6><code>uncertain</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>icon</code> (string)</summary>
+        <summary><h6><code>icon</h6></code> (string)</summary>
         
         <br>
         
@@ -2102,7 +2062,7 @@ installed on your system.
         </details>
       * <details>
         
-        <summary><code>nodes</code> (list)</summary>
+        <summary><h6><code>nodes</h6></code> (list)</summary>
         
         <br>
         
@@ -2123,7 +2083,7 @@ installed on your system.
         </details>
       * <details>
         
-        <summary><code>render</code> (function)</summary>
+        <summary><h6><code>render</h6></code> (function)</summary>
         
         <br>
         
@@ -2137,14 +2097,14 @@ installed on your system.
       </details>
     * <details>
       
-      <summary><code>undone</code> (table)</summary>
+      <summary><h6><code>undone</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>icon</code> (string)</summary>
+        <summary><h6><code>icon</h6></code> (string)</summary>
         
         <br>
         
@@ -2155,7 +2115,7 @@ installed on your system.
         </details>
       * <details>
         
-        <summary><code>nodes</code> (list)</summary>
+        <summary><h6><code>nodes</h6></code> (list)</summary>
         
         <br>
         
@@ -2176,7 +2136,7 @@ installed on your system.
         </details>
       * <details>
         
-        <summary><code>render</code> (function)</summary>
+        <summary><h6><code>render</h6></code> (function)</summary>
         
         <br>
         
@@ -2190,14 +2150,14 @@ installed on your system.
       </details>
     * <details>
       
-      <summary><code>urgent</code> (table)</summary>
+      <summary><h6><code>urgent</h6></code> (table)</summary>
       
       <br>
       
       
       * <details>
         
-        <summary><code>icon</code> (string)</summary>
+        <summary><h6><code>icon</h6></code> (string)</summary>
         
         <br>
         
@@ -2208,7 +2168,7 @@ installed on your system.
         </details>
       * <details>
         
-        <summary><code>nodes</code> (list)</summary>
+        <summary><h6><code>nodes</h6></code> (list)</summary>
         
         <br>
         
@@ -2229,7 +2189,7 @@ installed on your system.
         </details>
       * <details>
         
-        <summary><code>render</code> (function)</summary>
+        <summary><h6><code>render</h6></code> (function)</summary>
         
         <br>
         
@@ -2250,9 +2210,7 @@ installed on your system.
 
 * <details open>
   
-  <summary><code>init_open_folds</code> (string)</summary>
-  
-  <h6>
+  <summary><h6><code>init_open_folds</h6></code> (string)</summary>
   
   <div>
   
@@ -2261,8 +2219,6 @@ installed on your system.
   When set to `never`, Neorg will not do anything.
   
   </div>
-  
-  </h6>
   
   ```lua
   "auto"

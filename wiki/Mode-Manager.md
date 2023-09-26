@@ -32,17 +32,13 @@ which can be used by the user to switch modes.
 
 * <details open>
   
-  <summary><code>current_mode</code> (string)</summary>
-  
-  <h6>
+  <summary><h6><code>current_mode</h6></code> (string)</summary>
   
   <div>
   
   Stores the current mode
   
   </div>
-  
-  </h6>
   
   ```lua
   "norg"
@@ -52,17 +48,13 @@ which can be used by the user to switch modes.
 
 * <details open>
   
-  <summary><code>previous_mode</code> (string)</summary>
-  
-  <h6>
+  <summary><h6><code>previous_mode</h6></code> (string)</summary>
   
   <div>
   
   Stores the previous mode
   
   </div>
-  
-  </h6>
   
   ```lua
   "norg"

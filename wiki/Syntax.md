@@ -28,9 +28,7 @@ Any edit is assumed to break this module.
 
 * <details open>
   
-  <summary><code>performance</code> (table)</summary>
-  
-  <h6>
+  <summary><h6><code>performance</h6></code> (table)</summary>
   
   <div>
   
@@ -40,14 +38,10 @@ Any edit is assumed to break this module.
   
   </div>
   
-  </h6>
-  
   
   * <details>
     
-    <summary><code>increment</code> (number)</summary>
-    
-    <h6>
+    <summary><h6><code>increment</h6></code> (number)</summary>
     
     <div>
     
@@ -59,8 +53,6 @@ Any edit is assumed to break this module.
     
     </div>
     
-    </h6>
-    
     ```lua
     1250
     ```
@@ -68,9 +60,7 @@ Any edit is assumed to break this module.
     </details>
   * <details>
     
-    <summary><code>interval</code> (number)</summary>
-    
-    <h6>
+    <summary><h6><code>interval</h6></code> (number)</summary>
     
     <div>
     
@@ -79,8 +69,6 @@ Any edit is assumed to break this module.
     
     </div>
     
-    </h6>
-    
     ```lua
     500
     ```
@@ -88,9 +76,7 @@ Any edit is assumed to break this module.
     </details>
   * <details>
     
-    <summary><code>max_debounce</code> (number)</summary>
-    
-    <h6>
+    <summary><h6><code>max_debounce</h6></code> (number)</summary>
     
     <div>
     
@@ -102,8 +88,6 @@ Any edit is assumed to break this module.
     
     </div>
     
-    </h6>
-    
     ```lua
     5
     ```
@@ -111,9 +95,7 @@ Any edit is assumed to break this module.
     </details>
   * <details>
     
-    <summary><code>timeout</code> (number)</summary>
-    
-    <h6>
+    <summary><h6><code>timeout</h6></code> (number)</summary>
     
     <div>
     
@@ -121,8 +103,6 @@ Any edit is assumed to break this module.
     the buffer.
     
     </div>
-    
-    </h6>
     
     ```lua
     0

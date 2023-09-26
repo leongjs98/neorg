@@ -20,14 +20,14 @@ There is no available successor to this module yet.
 
 * <details open>
   
-  <summary><code>moveables</code> (table)</summary>
+  <summary><h6><code>moveables</h6></code> (table)</summary>
   
   <br>
   
   
   * <details>
     
-    <summary><code>headings</code> (list)</summary>
+    <summary><h6><code>headings</h6></code> (list)</summary>
     
     <br>
     
@@ -59,7 +59,7 @@ There is no available successor to this module yet.
     </details>
   * <details>
     
-    <summary><code>todo_items</code> (list)</summary>
+    <summary><h6><code>todo_items</h6></code> (list)</summary>
     
     <br>
     
@@ -112,7 +112,7 @@ There is no available successor to this module yet.
     </details>
   * <details>
     
-    <summary><code>unordered_list_elements</code> (list)</summary>
+    <summary><h6><code>unordered_list_elements</h6></code> (list)</summary>
     
     <br>
     

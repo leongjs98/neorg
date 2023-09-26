@@ -30,13 +30,14 @@ With your cursor on a line that contains an item with a TODO attribute, press
 any of the above keys to toggle the state of that particular item.
 Parent items of the same type and children items of the same type are update accordingly.
 
+## Changing Keybinds
+Please refer to the [`core.keybinds`](https://github.com/nvim-neorg/neorg/wiki/User-Keybinds#setting-up-a-keybind-hook) module
+
 # Configuration
 
 * <details open>
   
-  <summary><code>create_todo_items</code> (boolean)</summary>
-  
-  <h6>
+  <summary><h6><code>create_todo_items</h6></code> (boolean)</summary>
   
   <div>
   
@@ -48,14 +49,12 @@ Parent items of the same type and children items of the same type are update acc
   - Test Item
   ```
   With this option set to true, performing an operation (like pressing `<C-space>`
-  or `gtu` or what have you) will convert the non-todo item into one:
+  or what have you) will convert the non-todo item into one:
   ```norg
   - ( ) Test Item
   ```
   
   </div>
-  
-  </h6>
   
   ```lua
   true
@@ -65,9 +64,7 @@ Parent items of the same type and children items of the same type are update acc
 
 * <details open>
   
-  <summary><code>create_todo_parents</code> (boolean)</summary>
-  
-  <h6>
+  <summary><h6><code>create_todo_parents</h6></code> (boolean)</summary>
   
   <div>
   
@@ -89,8 +86,6 @@ Parent items of the same type and children items of the same type are update acc
   
   </div>
   
-  </h6>
-  
   ```lua
   false
   ```
@@ -99,9 +94,7 @@ Parent items of the same type and children items of the same type are update acc
 
 * <details open>
   
-  <summary><code>order</code> (list)</summary>
-  
-  <h6>
+  <summary><h6><code>order</h6></code> (list)</summary>
   
   <div>
   
@@ -111,8 +104,6 @@ Parent items of the same type and children items of the same type are update acc
   Defaults to the following order: `undone`, `done`, `pending`.
   
   </div>
-  
-  </h6>
   
   
   * <details>
@@ -217,9 +208,7 @@ Parent items of the same type and children items of the same type are update acc
 
 * <details open>
   
-  <summary><code>order_with_children</code> (list)</summary>
-  
-  <h6>
+  <summary><h6><code>order_with_children</h6></code> (list)</summary>
   
   <div>
   
@@ -232,8 +221,6 @@ Parent items of the same type and children items of the same type are update acc
   Defaults to the following order: `undone`, `done`.
   
   </div>
-  
-  </h6>
   
   
   * <details>

@@ -22,9 +22,7 @@ or [`nvim-compe`](https://github.com/nvim-neorg/neorg/wiki/Nvim-Compe)) to compl
 
 * <details open>
   
-  <summary><code>engine</code> (nil)</summary>
-  
-  <h6>
+  <summary><h6><code>engine</h6></code> (nil)</summary>
   
   <div>
   
@@ -36,8 +34,6 @@ or [`nvim-compe`](https://github.com/nvim-neorg/neorg/wiki/Nvim-Compe)) to compl
   
   </div>
   
-  </h6>
-  
   ```lua
   nil
   ```
@@ -46,17 +42,13 @@ or [`nvim-compe`](https://github.com/nvim-neorg/neorg/wiki/Nvim-Compe)) to compl
 
 * <details open>
   
-  <summary><code>name</code> (string)</summary>
-  
-  <h6>
+  <summary><h6><code>name</h6></code> (string)</summary>
   
   <div>
   
   The identifier for the Neorg source.
   
   </div>
-  
-  </h6>
   
   ```lua
   "[Neorg]"

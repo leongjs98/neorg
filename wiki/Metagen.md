@@ -22,17 +22,13 @@ The metagen module exposes two commands - `:Neorg inject-metadata` and `:Neorg u
 
 * <details open>
   
-  <summary><code>delimiter</code> (string)</summary>
-  
-  <h6>
+  <summary><h6><code>delimiter</h6></code> (string)</summary>
   
   <div>
   
   Custom delimiter between tag and value
   
   </div>
-  
-  </h6>
   
   ```lua
   ": "
@@ -42,17 +38,13 @@ The metagen module exposes two commands - `:Neorg inject-metadata` and `:Neorg u
 
 * <details open>
   
-  <summary><code>tab</code> (string)</summary>
-  
-  <h6>
+  <summary><h6><code>tab</h6></code> (string)</summary>
   
   <div>
   
   How to generate a tabulation inside the `@document.meta` tag
   
   </div>
-  
-  </h6>
   
   ```lua
   ""
@@ -62,17 +54,13 @@ The metagen module exposes two commands - `:Neorg inject-metadata` and `:Neorg u
 
 * <details open>
   
-  <summary><code>template</code> (nil)</summary>
-  
-  <h6>
+  <summary><h6><code>template</h6></code> (nil)</summary>
   
   <div>
   
   Custom template to use for generating content inside `@document.meta` tag
   
   </div>
-  
-  </h6>
   
   ```lua
   default_template
@@ -82,9 +70,7 @@ The metagen module exposes two commands - `:Neorg inject-metadata` and `:Neorg u
 
 * <details open>
   
-  <summary><code>type</code> (string)</summary>
-  
-  <h6>
+  <summary><h6><code>type</h6></code> (string)</summary>
   
   <div>
   
@@ -95,8 +81,6 @@ The metagen module exposes two commands - `:Neorg inject-metadata` and `:Neorg u
   
   </div>
   
-  </h6>
-  
   ```lua
   "none"
   ```
@@ -105,17 +89,13 @@ The metagen module exposes two commands - `:Neorg inject-metadata` and `:Neorg u
 
 * <details open>
   
-  <summary><code>update_date</code> (boolean)</summary>
-  
-  <h6>
+  <summary><h6><code>update_date</h6></code> (boolean)</summary>
   
   <div>
   
   Whether updated date field should be automatically updated on save if required
   
   </div>
-  
-  </h6>
   
   ```lua
   true

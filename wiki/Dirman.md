@@ -47,17 +47,13 @@ workspace. To get the best experience it's recommended to set the `autochdir` Ne
 
 * <details open>
   
-  <summary><code>default_workspace</code> (nil)</summary>
-  
-  <h6>
+  <summary><h6><code>default_workspace</h6></code> (nil)</summary>
   
   <div>
   
   The default workspace to set whenever Neovim starts.
   
   </div>
-  
-  </h6>
   
   ```lua
   nil
@@ -67,9 +63,7 @@ workspace. To get the best experience it's recommended to set the `autochdir` Ne
 
 * <details open>
   
-  <summary><code>index</code> (string)</summary>
-  
-  <h6>
+  <summary><h6><code>index</h6></code> (string)</summary>
   
   <div>
   
@@ -79,8 +73,6 @@ workspace. To get the best experience it's recommended to set the `autochdir` Ne
   
   </div>
   
-  </h6>
-  
   ```lua
   "index.norg"
   ```
@@ -89,9 +81,7 @@ workspace. To get the best experience it's recommended to set the `autochdir` Ne
 
 * <details open>
   
-  <summary><code>open_last_workspace</code> (boolean)</summary>
-  
-  <h6>
+  <summary><h6><code>open_last_workspace</h6></code> (boolean)</summary>
   
   <div>
   
@@ -103,8 +93,6 @@ workspace. To get the best experience it's recommended to set the `autochdir` Ne
   
   </div>
   
-  </h6>
-  
   ```lua
   false
   ```
@@ -113,9 +101,7 @@ workspace. To get the best experience it's recommended to set the `autochdir` Ne
 
 * <details open>
   
-  <summary><code>use_popup</code> (boolean)</summary>
-  
-  <h6>
+  <summary><h6><code>use_popup</h6></code> (boolean)</summary>
   
   <div>
   
@@ -123,8 +109,6 @@ workspace. To get the best experience it's recommended to set the `autochdir` Ne
   if `false`, will use vim's default `vim.ui.input` instead.
   
   </div>
-  
-  </h6>
   
   ```lua
   true
@@ -134,9 +118,7 @@ workspace. To get the best experience it's recommended to set the `autochdir` Ne
 
 * <details open>
   
-  <summary><code>workspaces</code> (table)</summary>
-  
-  <h6>
+  <summary><h6><code>workspaces</h6></code> (table)</summary>
   
   <div>
   
@@ -147,12 +129,10 @@ workspace. To get the best experience it's recommended to set the `autochdir` Ne
   
   </div>
   
-  </h6>
-  
   
   * <details>
     
-    <summary><code>default</code> (string)</summary>
+    <summary><h6><code>default</h6></code> (string)</summary>
     
     <br>
     

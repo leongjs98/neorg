@@ -67,17 +67,13 @@ to finely control what gets set and where:
 
 * <details open>
   
-  <summary><code>default_keybinds</code> (boolean)</summary>
-  
-  <h6>
+  <summary><h6><code>default_keybinds</h6></code> (boolean)</summary>
   
   <div>
   
   Whether to use the default keybinds provided [here](https://github.com/nvim-neorg/neorg/blob/main/lua/neorg/modules/core/keybinds/keybinds.lua).
   
   </div>
-  
-  </h6>
   
   ```lua
   true
@@ -87,9 +83,7 @@ to finely control what gets set and where:
 
 * <details open>
   
-  <summary><code>hook</code> (nil)</summary>
-  
-  <h6>
+  <summary><h6><code>hook</h6></code> (nil)</summary>
   
   <div>
   
@@ -97,8 +91,6 @@ to finely control what gets set and where:
   See the [section on setting up a keybind hook](#setting-up-a-keybind-hook) for more details.
   
   </div>
-  
-  </h6>
   
   ```lua
   nil
@@ -108,9 +100,7 @@ to finely control what gets set and where:
 
 * <details open>
   
-  <summary><code>keybind_preset</code> (string)</summary>
-  
-  <h6>
+  <summary><h6><code>keybind_preset</h6></code> (string)</summary>
   
   <div>
   
@@ -121,8 +111,6 @@ to finely control what gets set and where:
   
   </div>
   
-  </h6>
-  
   ```lua
   "neorg"
   ```
@@ -131,9 +119,7 @@ to finely control what gets set and where:
 
 * <details open>
   
-  <summary><code>keybind_presets</code> (empty list)</summary>
-  
-  <h6>
+  <summary><h6><code>keybind_presets</h6></code> (empty list)</summary>
   
   <div>
   
@@ -143,8 +129,6 @@ to finely control what gets set and where:
   
   </div>
   
-  </h6>
-  
   
   
   
@@ -152,9 +136,7 @@ to finely control what gets set and where:
 
 * <details open>
   
-  <summary><code>neorg_leader</code> (string)</summary>
-  
-  <h6>
+  <summary><h6><code>neorg_leader</h6></code> (string)</summary>
   
   <div>
   
@@ -163,8 +145,6 @@ to finely control what gets set and where:
   By default, this is the local leader key, which you must bind manually.
   
   </div>
-  
-  </h6>
   
   ```lua
   "<LocalLeader>"
