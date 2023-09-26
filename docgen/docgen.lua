@@ -595,9 +595,9 @@ docgen.render = function(configuration_option, open)
         "* <details" .. (open and " open>" or ">"),
         "",
         ((self.data.name or ""):match("^%s*$") and "<summary>" or table.concat({
-            "<summary><h6><code>",
+            "<summary><h3><code>",
             self.data.name,
-            "</h6></code>",
+            "</h3></code>",
         })) .. " (" .. type_of_object .. ")</summary>",
         "",
     }

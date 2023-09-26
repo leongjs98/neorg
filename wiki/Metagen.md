@@ -22,7 +22,7 @@ The metagen module exposes two commands - `:Neorg inject-metadata` and `:Neorg u
 
 * <details open>
   
-  <summary><h6><code>delimiter</h6></code> (string)</summary>
+  <summary><h3><code>delimiter</h3></code> (string)</summary>
   
   <div>
   
@@ -38,7 +38,7 @@ The metagen module exposes two commands - `:Neorg inject-metadata` and `:Neorg u
 
 * <details open>
   
-  <summary><h6><code>tab</h6></code> (string)</summary>
+  <summary><h3><code>tab</h3></code> (string)</summary>
   
   <div>
   
@@ -54,7 +54,7 @@ The metagen module exposes two commands - `:Neorg inject-metadata` and `:Neorg u
 
 * <details open>
   
-  <summary><h6><code>template</h6></code> (nil)</summary>
+  <summary><h3><code>template</h3></code> (nil)</summary>
   
   <div>
   
@@ -70,7 +70,7 @@ The metagen module exposes two commands - `:Neorg inject-metadata` and `:Neorg u
 
 * <details open>
   
-  <summary><h6><code>type</h6></code> (string)</summary>
+  <summary><h3><code>type</h3></code> (string)</summary>
   
   <div>
   
@@ -89,7 +89,7 @@ The metagen module exposes two commands - `:Neorg inject-metadata` and `:Neorg u
 
 * <details open>
   
-  <summary><h6><code>update_date</h6></code> (boolean)</summary>
+  <summary><h3><code>update_date</h3></code> (boolean)</summary>
   
   <div>
   

@@ -22,7 +22,7 @@ prompted with a set of actions that you can perform on the broken link.
 
 * <details open>
   
-  <summary><h6><code>external_filetypes</h6></code> (empty list)</summary>
+  <summary><h3><code>external_filetypes</h3></code> (empty list)</summary>
   
   <div>
   
@@ -38,7 +38,7 @@ prompted with a set of actions that you can perform on the broken link.
 
 * <details open>
   
-  <summary><h6><code>fuzzing_threshold</h6></code> (number)</summary>
+  <summary><h3><code>fuzzing_threshold</h3></code> (number)</summary>
   
   <div>
   
@@ -57,7 +57,7 @@ prompted with a set of actions that you can perform on the broken link.
 
 * <details open>
   
-  <summary><h6><code>lookahead</h6></code> (boolean)</summary>
+  <summary><h3><code>lookahead</h3></code> (boolean)</summary>
   
   <div>
   

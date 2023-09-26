@@ -30,7 +30,7 @@ the original file/directory in-place.
 
 * <details open>
   
-  <summary><h6><code>ask_for_backup</h6></code> (boolean)</summary>
+  <summary><h3><code>ask_for_backup</h3></code> (boolean)</summary>
   
   <div>
   

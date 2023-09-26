@@ -47,7 +47,7 @@ workspace. To get the best experience it's recommended to set the `autochdir` Ne
 
 * <details open>
   
-  <summary><h6><code>default_workspace</h6></code> (nil)</summary>
+  <summary><h3><code>default_workspace</h3></code> (nil)</summary>
   
   <div>
   
@@ -63,7 +63,7 @@ workspace. To get the best experience it's recommended to set the `autochdir` Ne
 
 * <details open>
   
-  <summary><h6><code>index</h6></code> (string)</summary>
+  <summary><h3><code>index</h3></code> (string)</summary>
   
   <div>
   
@@ -81,7 +81,7 @@ workspace. To get the best experience it's recommended to set the `autochdir` Ne
 
 * <details open>
   
-  <summary><h6><code>open_last_workspace</h6></code> (boolean)</summary>
+  <summary><h3><code>open_last_workspace</h3></code> (boolean)</summary>
   
   <div>
   
@@ -101,7 +101,7 @@ workspace. To get the best experience it's recommended to set the `autochdir` Ne
 
 * <details open>
   
-  <summary><h6><code>use_popup</h6></code> (boolean)</summary>
+  <summary><h3><code>use_popup</h3></code> (boolean)</summary>
   
   <div>
   
@@ -118,7 +118,7 @@ workspace. To get the best experience it's recommended to set the `autochdir` Ne
 
 * <details open>
   
-  <summary><h6><code>workspaces</h6></code> (table)</summary>
+  <summary><h3><code>workspaces</h3></code> (table)</summary>
   
   <div>
   
@@ -132,7 +132,7 @@ workspace. To get the best experience it's recommended to set the `autochdir` Ne
   
   * <details>
     
-    <summary><h6><code>default</h6></code> (string)</summary>
+    <summary><h3><code>default</h3></code> (string)</summary>
     
     <br>
     

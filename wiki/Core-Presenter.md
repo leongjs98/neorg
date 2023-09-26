@@ -26,7 +26,7 @@ overwritten soon anyway.
 
 * <details open>
   
-  <summary><h6><code>zen_mode</h6></code> (string)</summary>
+  <summary><h3><code>zen_mode</h3></code> (string)</summary>
   
   <div>
   

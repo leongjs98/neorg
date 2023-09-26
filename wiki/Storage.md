@@ -15,7 +15,7 @@
 
 * <details open>
   
-  <summary><h6><code>path</h6></code> (string)</summary>
+  <summary><h3><code>path</h3></code> (string)</summary>
   
   <div>
   

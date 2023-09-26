@@ -37,7 +37,7 @@ Please refer to the [`core.keybinds`](https://github.com/nvim-neorg/neorg/wiki/U
 
 * <details open>
   
-  <summary><h6><code>create_todo_items</h6></code> (boolean)</summary>
+  <summary><h3><code>create_todo_items</h3></code> (boolean)</summary>
   
   <div>
   
@@ -64,7 +64,7 @@ Please refer to the [`core.keybinds`](https://github.com/nvim-neorg/neorg/wiki/U
 
 * <details open>
   
-  <summary><h6><code>create_todo_parents</h6></code> (boolean)</summary>
+  <summary><h3><code>create_todo_parents</h3></code> (boolean)</summary>
   
   <div>
   
@@ -94,7 +94,7 @@ Please refer to the [`core.keybinds`](https://github.com/nvim-neorg/neorg/wiki/U
 
 * <details open>
   
-  <summary><h6><code>order</h6></code> (list)</summary>
+  <summary><h3><code>order</h3></code> (list)</summary>
   
   <div>
   
@@ -208,7 +208,7 @@ Please refer to the [`core.keybinds`](https://github.com/nvim-neorg/neorg/wiki/U
 
 * <details open>
   
-  <summary><h6><code>order_with_children</h6></code> (list)</summary>
+  <summary><h3><code>order_with_children</h3></code> (list)</summary>
   
   <div>
   

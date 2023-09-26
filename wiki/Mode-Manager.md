@@ -32,7 +32,7 @@ which can be used by the user to switch modes.
 
 * <details open>
   
-  <summary><h6><code>current_mode</h6></code> (string)</summary>
+  <summary><h3><code>current_mode</h3></code> (string)</summary>
   
   <div>
   
@@ -48,7 +48,7 @@ which can be used by the user to switch modes.
 
 * <details open>
   
-  <summary><h6><code>previous_mode</h6></code> (string)</summary>
+  <summary><h3><code>previous_mode</h3></code> (string)</summary>
   
   <div>
   

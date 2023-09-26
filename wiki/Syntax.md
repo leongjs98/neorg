@@ -28,7 +28,7 @@ Any edit is assumed to break this module.
 
 * <details open>
   
-  <summary><h6><code>performance</h6></code> (table)</summary>
+  <summary><h3><code>performance</h3></code> (table)</summary>
   
   <div>
   
@@ -41,7 +41,7 @@ Any edit is assumed to break this module.
   
   * <details>
     
-    <summary><h6><code>increment</h6></code> (number)</summary>
+    <summary><h3><code>increment</h3></code> (number)</summary>
     
     <div>
     
@@ -60,7 +60,7 @@ Any edit is assumed to break this module.
     </details>
   * <details>
     
-    <summary><h6><code>interval</h6></code> (number)</summary>
+    <summary><h3><code>interval</h3></code> (number)</summary>
     
     <div>
     
@@ -76,7 +76,7 @@ Any edit is assumed to break this module.
     </details>
   * <details>
     
-    <summary><h6><code>max_debounce</h6></code> (number)</summary>
+    <summary><h3><code>max_debounce</h3></code> (number)</summary>
     
     <div>
     
@@ -95,7 +95,7 @@ Any edit is assumed to break this module.
     </details>
   * <details>
     
-    <summary><h6><code>timeout</h6></code> (number)</summary>
+    <summary><h3><code>timeout</h3></code> (number)</summary>
     
     <div>
     

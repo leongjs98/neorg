@@ -27,7 +27,7 @@ due to incomplete syntax trees (if you find any such examples, then file an issu
 
 * <details open>
   
-  <summary><h6><code>dedent_excess</h6></code> (boolean)</summary>
+  <summary><h3><code>dedent_excess</h3></code> (boolean)</summary>
   
   <div>
   
@@ -48,7 +48,7 @@ due to incomplete syntax trees (if you find any such examples, then file an issu
 
 * <details open>
   
-  <summary><h6><code>format_on_enter</h6></code> (boolean)</summary>
+  <summary><h3><code>format_on_enter</h3></code> (boolean)</summary>
   
   <div>
   
@@ -64,7 +64,7 @@ due to incomplete syntax trees (if you find any such examples, then file an issu
 
 * <details open>
   
-  <summary><h6><code>format_on_escape</h6></code> (boolean)</summary>
+  <summary><h3><code>format_on_escape</h3></code> (boolean)</summary>
   
   <div>
   
@@ -81,7 +81,7 @@ due to incomplete syntax trees (if you find any such examples, then file an issu
 
 * <details open>
   
-  <summary><h6><code>indents</h6></code> (table)</summary>
+  <summary><h3><code>indents</h3></code> (table)</summary>
   
   <div>
   
@@ -98,7 +98,7 @@ due to incomplete syntax trees (if you find any such examples, then file an issu
   
   * <details>
     
-    <summary><h6><code>_</h6></code> (table)</summary>
+    <summary><h3><code>_</h3></code> (table)</summary>
     
     <div>
     
@@ -109,7 +109,7 @@ due to incomplete syntax trees (if you find any such examples, then file an issu
     
     * <details>
       
-      <summary><h6><code>indent</h6></code> (number)</summary>
+      <summary><h3><code>indent</h3></code> (number)</summary>
       
       <br>
       
@@ -120,7 +120,7 @@ due to incomplete syntax trees (if you find any such examples, then file an issu
       </details>
     * <details>
       
-      <summary><h6><code>modifiers</h6></code> (list)</summary>
+      <summary><h3><code>modifiers</h3></code> (list)</summary>
       
       <br>
       
@@ -144,7 +144,7 @@ due to incomplete syntax trees (if you find any such examples, then file an issu
     </details>
   * <details>
     
-    <summary><h6><code>heading1</h6></code> (table)</summary>
+    <summary><h3><code>heading1</h3></code> (table)</summary>
     
     <div>
     
@@ -157,7 +157,7 @@ due to incomplete syntax trees (if you find any such examples, then file an issu
     
     * <details>
       
-      <summary><h6><code>indent</h6></code> (number)</summary>
+      <summary><h3><code>indent</h3></code> (number)</summary>
       
       <br>
       
@@ -171,7 +171,7 @@ due to incomplete syntax trees (if you find any such examples, then file an issu
     </details>
   * <details>
     
-    <summary><h6><code>heading2</h6></code> (table)</summary>
+    <summary><h3><code>heading2</h3></code> (table)</summary>
     
     <div>
     
@@ -184,7 +184,7 @@ due to incomplete syntax trees (if you find any such examples, then file an issu
     
     * <details>
       
-      <summary><h6><code>indent</h6></code> (number)</summary>
+      <summary><h3><code>indent</h3></code> (number)</summary>
       
       <br>
       
@@ -198,7 +198,7 @@ due to incomplete syntax trees (if you find any such examples, then file an issu
     </details>
   * <details>
     
-    <summary><h6><code>heading3</h6></code> (table)</summary>
+    <summary><h3><code>heading3</h3></code> (table)</summary>
     
     <div>
     
@@ -211,7 +211,7 @@ due to incomplete syntax trees (if you find any such examples, then file an issu
     
     * <details>
       
-      <summary><h6><code>indent</h6></code> (number)</summary>
+      <summary><h3><code>indent</h3></code> (number)</summary>
       
       <br>
       
@@ -225,7 +225,7 @@ due to incomplete syntax trees (if you find any such examples, then file an issu
     </details>
   * <details>
     
-    <summary><h6><code>heading4</h6></code> (table)</summary>
+    <summary><h3><code>heading4</h3></code> (table)</summary>
     
     <div>
     
@@ -238,7 +238,7 @@ due to incomplete syntax trees (if you find any such examples, then file an issu
     
     * <details>
       
-      <summary><h6><code>indent</h6></code> (number)</summary>
+      <summary><h3><code>indent</h3></code> (number)</summary>
       
       <br>
       
@@ -252,7 +252,7 @@ due to incomplete syntax trees (if you find any such examples, then file an issu
     </details>
   * <details>
     
-    <summary><h6><code>heading5</h6></code> (table)</summary>
+    <summary><h3><code>heading5</h3></code> (table)</summary>
     
     <div>
     
@@ -265,7 +265,7 @@ due to incomplete syntax trees (if you find any such examples, then file an issu
     
     * <details>
       
-      <summary><h6><code>indent</h6></code> (number)</summary>
+      <summary><h3><code>indent</h3></code> (number)</summary>
       
       <br>
       
@@ -279,7 +279,7 @@ due to incomplete syntax trees (if you find any such examples, then file an issu
     </details>
   * <details>
     
-    <summary><h6><code>heading6</h6></code> (table)</summary>
+    <summary><h3><code>heading6</h3></code> (table)</summary>
     
     <div>
     
@@ -292,7 +292,7 @@ due to incomplete syntax trees (if you find any such examples, then file an issu
     
     * <details>
       
-      <summary><h6><code>indent</h6></code> (number)</summary>
+      <summary><h3><code>indent</h3></code> (number)</summary>
       
       <br>
       
@@ -306,7 +306,7 @@ due to incomplete syntax trees (if you find any such examples, then file an issu
     </details>
   * <details>
     
-    <summary><h6><code>paragraph_segment</h6></code> (table)</summary>
+    <summary><h3><code>paragraph_segment</h3></code> (table)</summary>
     
     <div>
     
@@ -317,7 +317,7 @@ due to incomplete syntax trees (if you find any such examples, then file an issu
     
     * <details>
       
-      <summary><h6><code>indent</h6></code> (number)</summary>
+      <summary><h3><code>indent</h3></code> (number)</summary>
       
       <br>
       
@@ -328,7 +328,7 @@ due to incomplete syntax trees (if you find any such examples, then file an issu
       </details>
     * <details>
       
-      <summary><h6><code>modifiers</h6></code> (list)</summary>
+      <summary><h3><code>modifiers</h3></code> (list)</summary>
       
       <br>
       
@@ -363,14 +363,14 @@ due to incomplete syntax trees (if you find any such examples, then file an issu
     </details>
   * <details>
     
-    <summary><h6><code>ranged_tag</h6></code> (table)</summary>
+    <summary><h3><code>ranged_tag</h3></code> (table)</summary>
     
     <br>
     
     
     * <details>
       
-      <summary><h6><code>indent</h6></code> (number)</summary>
+      <summary><h3><code>indent</h3></code> (number)</summary>
       
       <br>
       
@@ -381,7 +381,7 @@ due to incomplete syntax trees (if you find any such examples, then file an issu
       </details>
     * <details>
       
-      <summary><h6><code>modifiers</h6></code> (list)</summary>
+      <summary><h3><code>modifiers</h3></code> (list)</summary>
       
       <br>
       
@@ -405,7 +405,7 @@ due to incomplete syntax trees (if you find any such examples, then file an issu
     </details>
   * <details>
     
-    <summary><h6><code>ranged_tag_content</h6></code> (table)</summary>
+    <summary><h3><code>ranged_tag_content</h3></code> (table)</summary>
     
     <div>
     
@@ -416,7 +416,7 @@ due to incomplete syntax trees (if you find any such examples, then file an issu
     
     * <details>
       
-      <summary><h6><code>indent</h6></code> (number)</summary>
+      <summary><h3><code>indent</h3></code> (number)</summary>
       
       <br>
       
@@ -430,7 +430,7 @@ due to incomplete syntax trees (if you find any such examples, then file an issu
     </details>
   * <details>
     
-    <summary><h6><code>ranged_tag_end</h6></code> (table)</summary>
+    <summary><h3><code>ranged_tag_end</h3></code> (table)</summary>
     
     <div>
     
@@ -441,7 +441,7 @@ due to incomplete syntax trees (if you find any such examples, then file an issu
     
     * <details>
       
-      <summary><h6><code>indent</h6></code> (function)</summary>
+      <summary><h3><code>indent</h3></code> (function)</summary>
       
       <br>
       
@@ -455,7 +455,7 @@ due to incomplete syntax trees (if you find any such examples, then file an issu
     </details>
   * <details>
     
-    <summary><h6><code>strong_paragraph_delimiter</h6></code> (table)</summary>
+    <summary><h3><code>strong_paragraph_delimiter</h3></code> (table)</summary>
     
     <div>
     
@@ -471,7 +471,7 @@ due to incomplete syntax trees (if you find any such examples, then file an issu
     
     * <details>
       
-      <summary><h6><code>indent</h6></code> (function)</summary>
+      <summary><h3><code>indent</h3></code> (function)</summary>
       
       <br>
       
@@ -489,7 +489,7 @@ due to incomplete syntax trees (if you find any such examples, then file an issu
 
 * <details open>
   
-  <summary><h6><code>modifiers</h6></code> (table)</summary>
+  <summary><h3><code>modifiers</h3></code> (table)</summary>
   
   <div>
   
@@ -502,7 +502,7 @@ due to incomplete syntax trees (if you find any such examples, then file an issu
   
   * <details>
     
-    <summary><h6><code>under-headings</h6></code> (function)</summary>
+    <summary><h3><code>under-headings</h3></code> (function)</summary>
     
     <div>
     
@@ -517,7 +517,7 @@ due to incomplete syntax trees (if you find any such examples, then file an issu
     </details>
   * <details>
     
-    <summary><h6><code>under-nestable-detached-modifiers</h6></code> (function)</summary>
+    <summary><h3><code>under-nestable-detached-modifiers</h3></code> (function)</summary>
     
     <div>
     
@@ -536,7 +536,7 @@ due to incomplete syntax trees (if you find any such examples, then file an issu
 
 * <details open>
   
-  <summary><h6><code>tweaks</h6></code> (empty list)</summary>
+  <summary><h3><code>tweaks</h3></code> (empty list)</summary>
   
   <div>
   

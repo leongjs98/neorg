@@ -30,7 +30,7 @@ their titles.
 
 * <details open>
   
-  <summary><h6><code>journal_folder</h6></code> (string)</summary>
+  <summary><h3><code>journal_folder</h3></code> (string)</summary>
   
   <div>
   
@@ -46,7 +46,7 @@ their titles.
 
 * <details open>
   
-  <summary><h6><code>strategy</h6></code> (string)</summary>
+  <summary><h3><code>strategy</h3></code> (string)</summary>
   
   <div>
   
@@ -65,7 +65,7 @@ their titles.
 
 * <details open>
   
-  <summary><h6><code>template_name</h6></code> (string)</summary>
+  <summary><h3><code>template_name</h3></code> (string)</summary>
   
   <div>
   
@@ -81,7 +81,7 @@ their titles.
 
 * <details open>
   
-  <summary><h6><code>toc_format</h6></code> (nil)</summary>
+  <summary><h3><code>toc_format</h3></code> (nil)</summary>
   
   <div>
   
@@ -100,7 +100,7 @@ their titles.
 
 * <details open>
   
-  <summary><h6><code>use_template</h6></code> (boolean)</summary>
+  <summary><h3><code>use_template</h3></code> (boolean)</summary>
   
   <div>
   
@@ -116,7 +116,7 @@ their titles.
 
 * <details open>
   
-  <summary><h6><code>workspace</h6></code> (nil)</summary>
+  <summary><h3><code>workspace</h3></code> (nil)</summary>
   
   <div>
   

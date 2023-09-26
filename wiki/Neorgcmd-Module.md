@@ -25,7 +25,7 @@ which walks you through the necessary steps.
 
 * <details open>
   
-  <summary><h6><code>default</h6></code> (list)</summary>
+  <summary><h3><code>default</h3></code> (list)</summary>
   
   <div>
   
@@ -75,7 +75,7 @@ which walks you through the necessary steps.
 
 * <details open>
   
-  <summary><h6><code>load</h6></code> (list)</summary>
+  <summary><h3><code>load</h3></code> (list)</summary>
   
   <div>
   

@@ -67,7 +67,7 @@ to finely control what gets set and where:
 
 * <details open>
   
-  <summary><h6><code>default_keybinds</h6></code> (boolean)</summary>
+  <summary><h3><code>default_keybinds</h3></code> (boolean)</summary>
   
   <div>
   
@@ -83,7 +83,7 @@ to finely control what gets set and where:
 
 * <details open>
   
-  <summary><h6><code>hook</h6></code> (nil)</summary>
+  <summary><h3><code>hook</h3></code> (nil)</summary>
   
   <div>
   
@@ -100,7 +100,7 @@ to finely control what gets set and where:
 
 * <details open>
   
-  <summary><h6><code>keybind_preset</h6></code> (string)</summary>
+  <summary><h3><code>keybind_preset</h3></code> (string)</summary>
   
   <div>
   
@@ -119,7 +119,7 @@ to finely control what gets set and where:
 
 * <details open>
   
-  <summary><h6><code>keybind_presets</h6></code> (empty list)</summary>
+  <summary><h3><code>keybind_presets</h3></code> (empty list)</summary>
   
   <div>
   
@@ -136,7 +136,7 @@ to finely control what gets set and where:
 
 * <details open>
   
-  <summary><h6><code>neorg_leader</h6></code> (string)</summary>
+  <summary><h3><code>neorg_leader</h3></code> (string)</summary>
   
   <div>
   

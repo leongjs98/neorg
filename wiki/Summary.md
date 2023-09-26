@@ -27,7 +27,7 @@ as a fallback to build up a tree of categories, titles and descriptions.
 
 * <details open>
   
-  <summary><h6><code>strategy</h6></code> (string)</summary>
+  <summary><h3><code>strategy</h3></code> (string)</summary>
   
   <div>
   

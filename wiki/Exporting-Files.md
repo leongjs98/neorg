@@ -38,7 +38,7 @@ It takes 3 arguments:
 
 * <details open>
   
-  <summary><h6><code>export_dir</h6></code> (string)</summary>
+  <summary><h3><code>export_dir</h3></code> (string)</summary>
   
   <div>
   

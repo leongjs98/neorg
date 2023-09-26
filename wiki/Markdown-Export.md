@@ -21,7 +21,7 @@ To learn more about configuration, consult the [relevant section](#configuration
 
 * <details open>
   
-  <summary><h6><code>extension</h6></code> (string)</summary>
+  <summary><h3><code>extension</h3></code> (string)</summary>
   
   <div>
   
@@ -39,7 +39,7 @@ To learn more about configuration, consult the [relevant section](#configuration
 
 * <details open>
   
-  <summary><h6><code>extensions</h6></code> (empty list)</summary>
+  <summary><h3><code>extensions</h3></code> (empty list)</summary>
   
   <div>
   
@@ -58,7 +58,7 @@ To learn more about configuration, consult the [relevant section](#configuration
 
 * <details open>
   
-  <summary><h6><code>mathematics</h6></code> (table)</summary>
+  <summary><h3><code>mathematics</h3></code> (table)</summary>
   
   <div>
   
@@ -71,7 +71,7 @@ To learn more about configuration, consult the [relevant section](#configuration
   
   * <details>
     
-    <summary><h6><code>block</h6></code> (table)</summary>
+    <summary><h3><code>block</h3></code> (table)</summary>
     
     <div>
     
@@ -88,7 +88,7 @@ To learn more about configuration, consult the [relevant section](#configuration
     
     * <details>
       
-      <summary><h6><code>end</h6></code> (string)</summary>
+      <summary><h3><code>end</h3></code> (string)</summary>
       
       <br>
       
@@ -99,7 +99,7 @@ To learn more about configuration, consult the [relevant section](#configuration
       </details>
     * <details>
       
-      <summary><h6><code>start</h6></code> (string)</summary>
+      <summary><h3><code>start</h3></code> (string)</summary>
       
       <br>
       
@@ -113,7 +113,7 @@ To learn more about configuration, consult the [relevant section](#configuration
     </details>
   * <details>
     
-    <summary><h6><code>inline</h6></code> (table)</summary>
+    <summary><h3><code>inline</h3></code> (table)</summary>
     
     <div>
     
@@ -124,7 +124,7 @@ To learn more about configuration, consult the [relevant section](#configuration
     
     * <details>
       
-      <summary><h6><code>end</h6></code> (string)</summary>
+      <summary><h3><code>end</h3></code> (string)</summary>
       
       <br>
       
@@ -135,7 +135,7 @@ To learn more about configuration, consult the [relevant section](#configuration
       </details>
     * <details>
       
-      <summary><h6><code>start</h6></code> (string)</summary>
+      <summary><h3><code>start</h3></code> (string)</summary>
       
       <br>
       
@@ -153,7 +153,7 @@ To learn more about configuration, consult the [relevant section](#configuration
 
 * <details open>
   
-  <summary><h6><code>metadata</h6></code> (table)</summary>
+  <summary><h3><code>metadata</h3></code> (table)</summary>
   
   <div>
   
@@ -166,7 +166,7 @@ To learn more about configuration, consult the [relevant section](#configuration
   
   * <details>
     
-    <summary><h6><code>end</h6></code> (string)</summary>
+    <summary><h3><code>end</h3></code> (string)</summary>
     
     <br>
     
@@ -177,7 +177,7 @@ To learn more about configuration, consult the [relevant section](#configuration
     </details>
   * <details>
     
-    <summary><h6><code>start</h6></code> (string)</summary>
+    <summary><h3><code>start</h3></code> (string)</summary>
     
     <br>
     

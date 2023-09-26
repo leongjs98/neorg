@@ -22,7 +22,7 @@ or [`nvim-compe`](https://github.com/nvim-neorg/neorg/wiki/Nvim-Compe)) to compl
 
 * <details open>
   
-  <summary><h6><code>engine</h6></code> (nil)</summary>
+  <summary><h3><code>engine</h3></code> (nil)</summary>
   
   <div>
   
@@ -42,7 +42,7 @@ or [`nvim-compe`](https://github.com/nvim-neorg/neorg/wiki/Nvim-Compe)) to compl
 
 * <details open>
   
-  <summary><h6><code>name</h6></code> (string)</summary>
+  <summary><h3><code>name</h3></code> (string)</summary>
   
   <div>
   

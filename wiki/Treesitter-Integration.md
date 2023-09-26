@@ -15,7 +15,7 @@
 
 * <details open>
   
-  <summary><h6><code>configure_parsers</h6></code> (boolean)</summary>
+  <summary><h3><code>configure_parsers</h3></code> (boolean)</summary>
   
   <div>
   
@@ -33,7 +33,7 @@
 
 * <details open>
   
-  <summary><h6><code>install_parsers</h6></code> (boolean)</summary>
+  <summary><h3><code>install_parsers</h3></code> (boolean)</summary>
   
   <div>
   
@@ -49,7 +49,7 @@
 
 * <details open>
   
-  <summary><h6><code>parser_configs</h6></code> (table)</summary>
+  <summary><h3><code>parser_configs</h3></code> (table)</summary>
   
   <div>
   
@@ -61,7 +61,7 @@
   
   * <details>
     
-    <summary><h6><code>norg</h6></code> (table)</summary>
+    <summary><h3><code>norg</h3></code> (table)</summary>
     
     <div>
     
@@ -72,7 +72,7 @@
     
     * <details>
       
-      <summary><h6><code>branch</h6></code> (string)</summary>
+      <summary><h3><code>branch</h3></code> (string)</summary>
       
       <br>
       
@@ -83,7 +83,7 @@
       </details>
     * <details>
       
-      <summary><h6><code>files</h6></code> (list)</summary>
+      <summary><h3><code>files</h3></code> (list)</summary>
       
       <br>
       
@@ -115,7 +115,7 @@
       </details>
     * <details>
       
-      <summary><h6><code>revision</h6></code> (string)</summary>
+      <summary><h3><code>revision</h3></code> (string)</summary>
       
       <br>
       
@@ -126,7 +126,7 @@
       </details>
     * <details>
       
-      <summary><h6><code>url</h6></code> (string)</summary>
+      <summary><h3><code>url</h3></code> (string)</summary>
       
       <br>
       
@@ -140,7 +140,7 @@
     </details>
   * <details>
     
-    <summary><h6><code>norg_meta</h6></code> (table)</summary>
+    <summary><h3><code>norg_meta</h3></code> (table)</summary>
     
     <div>
     
@@ -152,7 +152,7 @@
     
     * <details>
       
-      <summary><h6><code>branch</h6></code> (string)</summary>
+      <summary><h3><code>branch</h3></code> (string)</summary>
       
       <br>
       
@@ -163,7 +163,7 @@
       </details>
     * <details>
       
-      <summary><h6><code>files</h6></code> (list)</summary>
+      <summary><h3><code>files</h3></code> (list)</summary>
       
       <br>
       
@@ -184,7 +184,7 @@
       </details>
     * <details>
       
-      <summary><h6><code>revision</h6></code> (string)</summary>
+      <summary><h3><code>revision</h3></code> (string)</summary>
       
       <br>
       
@@ -195,7 +195,7 @@
       </details>
     * <details>
       
-      <summary><h6><code>url</h6></code> (string)</summary>
+      <summary><h3><code>url</h3></code> (string)</summary>
       
       <br>
       
